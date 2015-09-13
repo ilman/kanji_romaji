@@ -1,0 +1,3305 @@
+[
+    {
+        "category": "jlptn2",
+        "character": "\u515a",
+        "onyomi": "\u30c8\u30a6",
+        "kunyomi": "\u306a\u304b\u307e \u3080\u3089",
+        "meaning": "party, faction, clique",
+        "onyomi_romaji": "t\u014d",
+        "kunyomi_romaji": "nakama mura"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5354",
+        "onyomi": "\u30ad\u30e7\u30a6",
+        "kunyomi": "",
+        "meaning": "co-, cooperation",
+        "onyomi_romaji": "ky\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7dcf",
+        "onyomi": "\u30bd\u30a6 \u30d5",
+        "kunyomi": "\u3059.\u3079\u3066 \u3059\u3079.\u3066",
+        "meaning": "general, whole, all, full, total",
+        "onyomi_romaji": "s\u014d fu",
+        "kunyomi_romaji": "su.bete sube.te"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u533a",
+        "onyomi": "\u30af \u30aa\u30a6 \u30b3\u30a6",
+        "kunyomi": "",
+        "meaning": "ward, district",
+        "onyomi_romaji": "ku \u014d k\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9818",
+        "onyomi": "\u30ea\u30e7\u30a6",
+        "kunyomi": "",
+        "meaning": "jurisdiction, dominion, territory, fief, reign",
+        "onyomi_romaji": "ry\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u770c",
+        "onyomi": "\u30b1\u30f3 \u30ab.\u30b1",
+        "kunyomi": "",
+        "meaning": "prefecture",
+        "onyomi_romaji": "ken ka.ke",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8a2d",
+        "onyomi": "\u30bb\u30c4 \u30e2\u30a6.\u30b1",
+        "kunyomi": "",
+        "meaning": "establishment, provision, prepare",
+        "onyomi_romaji": "setsu m\u014d.ke",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6539",
+        "onyomi": "\u30ab\u30a4",
+        "kunyomi": "\u3042\u3089\u305f.\u3081\u308b \u3042\u3089\u305f.\u307e\u308b",
+        "meaning": "reformation, change, modify, mend, renew, examine, inspect, search",
+        "onyomi_romaji": "kai",
+        "kunyomi_romaji": "arata.meru arata.maru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e9c",
+        "onyomi": "",
+        "kunyomi": "",
+        "meaning": "borough, urban prefecture, govt office, representative body, storehouse",
+        "onyomi_romaji": "",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u67fb",
+        "onyomi": "\u30b5",
+        "kunyomi": "",
+        "meaning": "investigate",
+        "onyomi_romaji": "sa",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u59d4",
+        "onyomi": "\u30a4 \u30e6\u30c0.\u30cd",
+        "kunyomi": "",
+        "meaning": "committee, entrust to, leave to, devote, discard",
+        "onyomi_romaji": "i yuda.ne",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8ecd",
+        "onyomi": "\u30b0\u30f3",
+        "kunyomi": "",
+        "meaning": "army, force, troops, war, battle",
+        "onyomi_romaji": "gun",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u56e3",
+        "onyomi": "\u30c0\u30f3 \u30c8\u30f3",
+        "kunyomi": "\u304b\u305f\u307e\u308a \u307e\u308b.\u3044",
+        "meaning": "group, association",
+        "onyomi_romaji": "dan ton",
+        "kunyomi_romaji": "katamari maru.i"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5404",
+        "onyomi": "\u30ab\u30af \u30aa\u30ce\u30aa",
+        "kunyomi": "",
+        "meaning": "each, every, either",
+        "onyomi_romaji": "kaku on\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5cf6",
+        "onyomi": "\u30c8\u30a6",
+        "kunyomi": "\u3057\u307e",
+        "meaning": "island",
+        "onyomi_romaji": "t\u014d",
+        "kunyomi_romaji": "shima"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9769",
+        "onyomi": "\u30ab\u30af",
+        "kunyomi": "\u304b\u308f",
+        "meaning": "leather, become serious, skin, hide, pelt",
+        "onyomi_romaji": "kaku",
+        "kunyomi_romaji": "kawa"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6751",
+        "onyomi": "\u30bd\u30f3 \u30e0",
+        "kunyomi": "",
+        "meaning": "town, village",
+        "onyomi_romaji": "son mu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u52e2",
+        "onyomi": "\u30bb\u30a4 \u30bc\u30a4 \u30cf\u30ba",
+        "kunyomi": "\u3044\u304d\u304a.\u3044",
+        "meaning": "forces, energy, military strength",
+        "onyomi_romaji": "sei zei hazu",
+        "kunyomi_romaji": "ikio.i"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6e1b",
+        "onyomi": "\u30b2\u30f3",
+        "kunyomi": "\u3078.\u308b \u3078.\u3089\u3059",
+        "meaning": "dwindle, decrease, reduce, decline, curtail, get hungry",
+        "onyomi_romaji": "gen",
+        "kunyomi_romaji": "he.ru he.rasu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u518d",
+        "onyomi": "\u30b5\u30a4 \u30b5 \u30d5\u30bf\u30bf.",
+        "kunyomi": "",
+        "meaning": "again, twice, second time",
+        "onyomi_romaji": "sai sa futata.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7a0e",
+        "onyomi": "\u30bc",
+        "kunyomi": "",
+        "meaning": "tax, duty",
+        "onyomi_romaji": "ze",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u55b6",
+        "onyomi": "\u30a8\u30a4",
+        "kunyomi": "\u3044\u3068\u306a.\u3080 \u3044\u3068\u306a.\u307f",
+        "meaning": "occupation, camp, perform, build, conduct (business)",
+        "onyomi_romaji": "ei",
+        "kunyomi_romaji": "itona.mu itona.mi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6bd4",
+        "onyomi": "\u30d2 \u30af\u30e9.\u30d9",
+        "kunyomi": "",
+        "meaning": "compare, race, ratio, Philipines",
+        "onyomi_romaji": "hi kura.be",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9632",
+        "onyomi": "\u30dc\u30a6 \u30d5\u30bb.",
+        "kunyomi": "",
+        "meaning": "ward off, defend, protect, resist",
+        "onyomi_romaji": "b\u014d fuse.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u88dc",
+        "onyomi": "\u30db",
+        "kunyomi": "\u304a\u304e\u306a.\u3046",
+        "meaning": "supplement, supply, make good, offset, compensate, assistant, learner",
+        "onyomi_romaji": "ho",
+        "kunyomi_romaji": "ogina.u"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5883",
+        "onyomi": "\u30ad\u30e7\u30a6 \u30b1\u30a4 \u30b5\u30ab",
+        "kunyomi": "",
+        "meaning": "boundary, border, region",
+        "onyomi_romaji": "ky\u014d kei saka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5c0e",
+        "onyomi": "\u30c9\u30a6 \u30df\u30c1\u30d3.",
+        "kunyomi": "",
+        "meaning": "guidance, leading, conduct, usher",
+        "onyomi_romaji": "d\u014d michibi.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u526f",
+        "onyomi": "\u30d5",
+        "kunyomi": "",
+        "meaning": "vice-, duplicate, copy",
+        "onyomi_romaji": "fu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7b97",
+        "onyomi": "\u30b5\u30f3",
+        "kunyomi": "\u305d\u308d",
+        "meaning": "calculate, divining, number, abacus, probability",
+        "onyomi_romaji": "san",
+        "kunyomi_romaji": "soro"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8f38",
+        "onyomi": "\u30e6 \u30b7\u30e5",
+        "kunyomi": "",
+        "meaning": "transport, send, be inferior",
+        "onyomi_romaji": "yu shu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8ff0",
+        "onyomi": "\u30b8\u30e5\u30c4",
+        "kunyomi": "\u306e.\u3079\u308b",
+        "meaning": "mention, state, speak, relate",
+        "onyomi_romaji": "jutsu",
+        "kunyomi_romaji": "no.beru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7dda",
+        "onyomi": "\u30bb\u30f3",
+        "kunyomi": "\u3059\u3058",
+        "meaning": "line, track",
+        "onyomi_romaji": "sen",
+        "kunyomi_romaji": "suji"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8fb2",
+        "onyomi": "\u30ce",
+        "kunyomi": "",
+        "meaning": "agriculture, farmers",
+        "onyomi_romaji": "no",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5dde",
+        "onyomi": "\u30b7\u30e5\u30a6 \u30b9",
+        "kunyomi": "",
+        "meaning": "state, province",
+        "onyomi_romaji": "sh\u016b su",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6b66",
+        "onyomi": "\u30d6 \u30e0 \u30bf\u30b1.",
+        "kunyomi": "",
+        "meaning": "warrior, military, chivalry, arms",
+        "onyomi_romaji": "bu mu take.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8c61",
+        "onyomi": "\u30b7\u30e7\u30a6 \u30be\u30a6 \u30ab\u30bf\u30c9.",
+        "kunyomi": "",
+        "meaning": "elephant, pattern after, imitate, image, shape, sign (of the times)",
+        "onyomi_romaji": "sh\u014d z\u014d katado.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u57df",
+        "onyomi": "\u30a4\u30ad",
+        "kunyomi": "",
+        "meaning": "range, region, limits, stage, level",
+        "onyomi_romaji": "iki",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u984d",
+        "onyomi": "\u30ac\u30af \u30d2\u30bf",
+        "kunyomi": "",
+        "meaning": "forehead, tablet, plaque, framed picture, sum, amount, volume",
+        "onyomi_romaji": "gaku hita",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6b27",
+        "onyomi": "\u30aa\u30a6 \u30cf.",
+        "kunyomi": "\u3046\u305f.\u3046",
+        "meaning": "Europe",
+        "onyomi_romaji": "\u014d ha.",
+        "kunyomi_romaji": "uta.u"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u62c5",
+        "onyomi": "\u30bf\u30f3",
+        "kunyomi": "\u304b\u3064.\u3050 \u306b\u306a.\u3046",
+        "meaning": "shouldering, carry, raise, bear",
+        "onyomi_romaji": "tan",
+        "kunyomi_romaji": "katsu.gu nina.u"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6e96",
+        "onyomi": "\u30b8\u30e5\u30f3",
+        "kunyomi": "\u3058\u3085\u3093.\u3058\u308b \u3058\u3085\u3093.\u305a\u308b \u306a\u305e\u3089.\u3048\u308b \u306e\u308a \u3072\u3068.\u3057\u3044 \u307f\u305a\u3082\u308a",
+        "meaning": "semi-, correspond to, proportionate to, conform, imitate",
+        "onyomi_romaji": "jun",
+        "kunyomi_romaji": "jun.jiru jun.zuru nazora.eru nori hito.shii mizumori"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8cde",
+        "onyomi": "\u30b7\u30e7\u30a6",
+        "kunyomi": "\u307b.\u3081\u308b",
+        "meaning": "prize, reward, praise",
+        "onyomi_romaji": "sh\u014d",
+        "kunyomi_romaji": "ho.meru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8fba",
+        "onyomi": "\u30d8\u30f3 -",
+        "kunyomi": "\u3042\u305f.\u308a \u307b\u3068.\u308a",
+        "meaning": "environs, boundary, border, vicinity",
+        "onyomi_romaji": "hen -",
+        "kunyomi_romaji": "ata.ri hoto.ri"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9020",
+        "onyomi": "\u30be\u30a6 -\u30c5\u30af.",
+        "kunyomi": "\u3064\u304f.\u308b \u3064\u304f.\u308a",
+        "meaning": "create, make, structure, physique",
+        "onyomi_romaji": "z\u014d -zuku.",
+        "kunyomi_romaji": "tsuku.ru tsuku.ri"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u88ab",
+        "onyomi": "\u30d2 \u30ab\u30d6.\u30bb",
+        "kunyomi": "\u3053\u3046\u3080.\u308b \u304a\u304a.\u3046 \u304b\u3076.\u308b",
+        "meaning": "incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving",
+        "onyomi_romaji": "hi kabu.se",
+        "kunyomi_romaji": "k\u014dmu.ru \u014d.u kabu.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6280",
+        "onyomi": "\u30ae",
+        "kunyomi": "\u308f\u3056",
+        "meaning": "skill, art, craft, ability, feat, performance, vocation, arts",
+        "onyomi_romaji": "gi",
+        "kunyomi_romaji": "waza"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4f4e",
+        "onyomi": "\u30c6\u30a4",
+        "kunyomi": "\u3072\u304f.\u3044 \u3072\u304f.\u3081\u308b \u3072\u304f.\u307e\u308b",
+        "meaning": "lower, short, humble",
+        "onyomi_romaji": "tei",
+        "kunyomi_romaji": "hiku.i hiku.meru hiku.maru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5fa9",
+        "onyomi": "\u30d5\u30af",
+        "kunyomi": "\u307e\u305f",
+        "meaning": "restore, return to, revert, resume",
+        "onyomi_romaji": "fuku",
+        "kunyomi_romaji": "mata"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u79fb",
+        "onyomi": "\u30a4",
+        "kunyomi": "\u3046\u3064.\u308b \u3046\u3064.\u3059",
+        "meaning": "shift, move, change, drift, catch (cold, fire), pass into",
+        "onyomi_romaji": "i",
+        "kunyomi_romaji": "utsu.ru utsu.su"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u500b",
+        "onyomi": "\u30b3 \u30ab",
+        "kunyomi": "",
+        "meaning": "individual, counter for articles and military units",
+        "onyomi_romaji": "ko ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9580",
+        "onyomi": "\u30e2\u30f3",
+        "kunyomi": "\u304b\u3069",
+        "meaning": "gates",
+        "onyomi_romaji": "mon",
+        "kunyomi_romaji": "kado"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8ab2",
+        "onyomi": "\u30ab",
+        "kunyomi": "",
+        "meaning": "chapter, lesson, section, department, division, counter for chapters (of a book)",
+        "onyomi_romaji": "ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8133",
+        "onyomi": "\u30ce\u30a6 \u30c9\u30a6",
+        "kunyomi": "\u306e\u3046\u305a\u308b",
+        "meaning": "brain, memory",
+        "onyomi_romaji": "n\u014d d\u014d",
+        "kunyomi_romaji": "n\u014dzuru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6975",
+        "onyomi": "\u30ad\u30e7\u30af \u30b4\u30af",
+        "kunyomi": "\u304d\u308f.\u3081\u308b \u304d\u308f.\u307e\u308b \u304d\u308f.\u307e\u308a \u304d\u308f.\u307f \u304d.\u3081\u308b -\u304e.\u3081 \u304d.\u307e\u308b",
+        "meaning": "poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48",
+        "onyomi_romaji": "kyoku goku",
+        "kunyomi_romaji": "kiwa.meru kiwa.maru kiwa.mari kiwa.mi ki.meru -gi.me ki.maru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u542b",
+        "onyomi": "\u30ac\u30f3",
+        "kunyomi": "\u3075\u304f.\u3080 \u3075\u304f.\u3081\u308b",
+        "meaning": "include, bear in mind, understand, cherish",
+        "onyomi_romaji": "gan",
+        "kunyomi_romaji": "fuku.mu fuku.meru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8535",
+        "onyomi": "\u30be\u30a6 \u30bd\u30a6 \u30ab\u30af.\u30ec",
+        "kunyomi": "\u304f\u3089 \u304a\u3055.\u3081\u308b",
+        "meaning": "storehouse, hide, own, have, possess",
+        "onyomi_romaji": "z\u014d s\u014d kaku.re",
+        "kunyomi_romaji": "kura osa.meru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u91cf",
+        "onyomi": "\u30ea\u30e7\u30a6 \u30cf\u30ab.",
+        "kunyomi": "",
+        "meaning": "quantity, measure, weight, amount, consider, estimate, surmise",
+        "onyomi_romaji": "ry\u014d haka.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u578b",
+        "onyomi": "\u30b1\u30a4",
+        "kunyomi": "\u304b\u305f -\u304c\u305f",
+        "meaning": "mould, type, model",
+        "onyomi_romaji": "kei",
+        "kunyomi_romaji": "kata -gata"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6cc1",
+        "onyomi": "\u30ad\u30e7\u30a6",
+        "kunyomi": "\u307e\u3057.\u3066 \u3044\u308f.\u3093\u3084 \u304a\u3082\u3080\u304d",
+        "meaning": "condition, situation",
+        "onyomi_romaji": "ky\u014d",
+        "kunyomi_romaji": "mashi.te iwa.n'ya omomuki"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u91dd",
+        "onyomi": "\u30b7\u30f3 \u30cf",
+        "kunyomi": "",
+        "meaning": "needle, pin, staple, stinger",
+        "onyomi_romaji": "shin ha",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5c02",
+        "onyomi": "\u30bb\u30f3",
+        "kunyomi": "\u3082\u3063\u3071.\u3089",
+        "meaning": "specialty, exclusive, mainly, solely",
+        "onyomi_romaji": "sen",
+        "kunyomi_romaji": "moppa.ra"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8c37",
+        "onyomi": "\u30b3\u30af \u30ad\u30ef.\u30de",
+        "kunyomi": "\u305f\u306b",
+        "meaning": "valley",
+        "onyomi_romaji": "koku kiwa.ma",
+        "kunyomi_romaji": "tani"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u53f2",
+        "onyomi": "",
+        "kunyomi": "",
+        "meaning": "history, chronicle",
+        "onyomi_romaji": "",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u968e",
+        "onyomi": "\u30ab\u30a4 \u30ad\u30b6\u30cf",
+        "kunyomi": "",
+        "meaning": "storey, stair, counter for storeys of a building",
+        "onyomi_romaji": "kai kizaha",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7ba1",
+        "onyomi": "\u30ab\u30f3 \u30af",
+        "kunyomi": "",
+        "meaning": "pipe, tube, wind instrument, drunken talk",
+        "onyomi_romaji": "kan ku",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5175",
+        "onyomi": "\u30d8\u30a4 \u30d2\u30e7\u30a6 \u30c4\u30ef\u30e2",
+        "kunyomi": "",
+        "meaning": "soldier, private, troops, army, warfare, strategy, tactics",
+        "onyomi_romaji": "hei hy\u014d tsuwamo",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u63a5",
+        "onyomi": "\u30bb\u30c4 \u30b7\u30e7\u30a6",
+        "kunyomi": "\u3064.\u3050",
+        "meaning": "touch, contact, adjoin, piece together",
+        "onyomi_romaji": "setsu sh\u014d",
+        "kunyomi_romaji": "tsu.gu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7d30",
+        "onyomi": "\u30b5\u30a4",
+        "kunyomi": "\u307b\u305d.\u3044 \u307b\u305d.\u308b \u3053\u307e.\u304b \u3053\u307e.\u304b\u3044",
+        "meaning": "dainty, get thin, taper, slender, narrow",
+        "onyomi_romaji": "sai",
+        "kunyomi_romaji": "hoso.i hoso.ru koma.ka koma.kai"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u52b9",
+        "onyomi": "\u30b3\u30a6",
+        "kunyomi": "\u304d.\u304f \u304d\u304d\u3081 \u306a\u3089.\u3046",
+        "meaning": "merit, efficacy, efficiency, benefit",
+        "onyomi_romaji": "k\u014d",
+        "kunyomi_romaji": "ki.ku kikime nara.u"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4e38",
+        "onyomi": "\u30ac\u30f3 \u30de\u30eb.",
+        "kunyomi": "\u307e\u308b \u307e\u308b.\u3081\u308b",
+        "meaning": "round, full, month, perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+        "onyomi_romaji": "gan maru.",
+        "kunyomi_romaji": "maru maru.meru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6e7e",
+        "onyomi": "\u30ef\u30f3",
+        "kunyomi": "\u3044\u308a\u3048",
+        "meaning": "gulf, bay, inlet",
+        "onyomi_romaji": "wan",
+        "kunyomi_romaji": "irie"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9332",
+        "onyomi": "\u30ed\u30af",
+        "kunyomi": "",
+        "meaning": "record",
+        "onyomi_romaji": "roku",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7701",
+        "onyomi": "\u30bb\u30a4 \u30b7\u30e7\u30a6 \u30cf\u30d6.",
+        "kunyomi": "\u304b\u3048\u308a.\u307f\u308b",
+        "meaning": "focus, government ministry, conserve",
+        "onyomi_romaji": "sei sh\u014d habu.",
+        "kunyomi_romaji": "kaeri.miru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u65e7",
+        "onyomi": "\u30ad\u30e5\u30a6",
+        "kunyomi": "\u3075\u308b.\u3044 \u3082\u3068",
+        "meaning": "old times, old things, old friend, former, ex-",
+        "onyomi_romaji": "ky\u016b",
+        "kunyomi_romaji": "furu.i moto"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6a4b",
+        "onyomi": "\u30ad\u30e7\u30a6 \u30cf",
+        "kunyomi": "",
+        "meaning": "bridge",
+        "onyomi_romaji": "ky\u014d ha",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5cb8",
+        "onyomi": "\u30ac\u30f3 \u30ad",
+        "kunyomi": "",
+        "meaning": "beach",
+        "onyomi_romaji": "gan ki",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5468",
+        "onyomi": "\u30b7\u30e5\u30a6 \u30de\u30ef.",
+        "kunyomi": "",
+        "meaning": "circumference, circuit, lap",
+        "onyomi_romaji": "sh\u016b mawa.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6750",
+        "onyomi": "\u30b6",
+        "kunyomi": "",
+        "meaning": "lumber, log, timber, wood, talent",
+        "onyomi_romaji": "za",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6238",
+        "onyomi": "\u30b3",
+        "kunyomi": "",
+        "meaning": "door",
+        "onyomi_romaji": "ko",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u592e",
+        "onyomi": "\u30aa",
+        "kunyomi": "",
+        "meaning": "center, middle",
+        "onyomi_romaji": "o",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5238",
+        "onyomi": "\u30b1\u30f3",
+        "kunyomi": "",
+        "meaning": "ticket",
+        "onyomi_romaji": "ken",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7de8",
+        "onyomi": "\u30d8\u30f3",
+        "kunyomi": "\u3042.\u3080 -\u3042.\u307f",
+        "meaning": "compilation, knit, plait, braid, twist, editing, completed poem, part of a book",
+        "onyomi_romaji": "hen",
+        "kunyomi_romaji": "a.mu -a.mi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u635c",
+        "onyomi": "\u30bd\u30a6 \u30b7\u30e5 \u30b7\u30e5\u30a6",
+        "kunyomi": "\u3055\u304c.\u3059",
+        "meaning": "search, look for, locate",
+        "onyomi_romaji": "s\u014d shu sh\u016b",
+        "kunyomi_romaji": "saga.su"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7af9",
+        "onyomi": "\u30c1\u30af \u30bf",
+        "kunyomi": "",
+        "meaning": "bamboo",
+        "onyomi_romaji": "chiku ta",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8d85",
+        "onyomi": "\u30c1\u30e7\u30a6 \u30b3.",
+        "kunyomi": "\u3053.\u3048\u308b",
+        "meaning": "transcend, super-, ultra-",
+        "onyomi_romaji": "ch\u014d ko.",
+        "kunyomi_romaji": "ko.eru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4e26",
+        "onyomi": "\u30d8\u30a4 \u30db\u30a6 \u30ca\u30e9.\u30d3",
+        "kunyomi": "\u306a.\u307f \u306a\u3089.\u3079\u308b \u306a\u3089.\u3076",
+        "meaning": "row, and, besides, as well as, line up, rank with, rival, equal",
+        "onyomi_romaji": "hei h\u014d nara.bi",
+        "kunyomi_romaji": "na.mi nara.beru nara.bu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7642",
+        "onyomi": "\u30ea\u30e7\u30a6",
+        "kunyomi": "",
+        "meaning": "heal, cure",
+        "onyomi_romaji": "ry\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u63a1",
+        "onyomi": "\u30b5\u30a4",
+        "kunyomi": "\u3068.\u308b",
+        "meaning": "pick, take, fetch, take up",
+        "onyomi_romaji": "sai",
+        "kunyomi_romaji": "to.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u68ee",
+        "onyomi": "\u30b7\u30f3 \u30e2",
+        "kunyomi": "",
+        "meaning": "forest, woods",
+        "onyomi_romaji": "shin mo",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7af6",
+        "onyomi": "\u30ad\u30e7\u30a6 \u30b1\u30a4 \u30bb.",
+        "kunyomi": "\u304d\u305d.\u3046",
+        "meaning": "emulate, compete with, bid, sell at auction, bout, contest, race",
+        "onyomi_romaji": "ky\u014d kei se.",
+        "kunyomi_romaji": "kiso.u"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4ecb",
+        "onyomi": "\u30ab",
+        "kunyomi": "",
+        "meaning": "jammed in, shellfish, mediate, concern oneself with",
+        "onyomi_romaji": "ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6839",
+        "onyomi": "\u30b3\u30f3",
+        "kunyomi": "\u306d -\u306d",
+        "meaning": "root, radical, head (pimple)",
+        "onyomi_romaji": "kon",
+        "kunyomi_romaji": "ne -ne"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8ca9",
+        "onyomi": "\u30cf\u30f3",
+        "kunyomi": "",
+        "meaning": "marketing, sell, trade",
+        "onyomi_romaji": "han",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6b74",
+        "onyomi": "\u30ec\u30ad \u30ec\u30c3\u30ad",
+        "kunyomi": "",
+        "meaning": "curriculum, continuation, passage of time",
+        "onyomi_romaji": "reki rekki",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5c06",
+        "onyomi": "\u30b7\u30e7\u30a6 \u30bd\u30a6 \u30e2\u30c3",
+        "kunyomi": "\u307e\u3055.\u306b \u306f\u305f \u307e\u3055 \u3072\u304d\u3044.\u308b",
+        "meaning": "leader, commander, general, admiral, or, and again, soon, from now on, just about",
+        "onyomi_romaji": "sh\u014d s\u014d mo\u3063",
+        "kunyomi_romaji": "masa.ni hata masa hikii.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e45",
+        "onyomi": "\u30d5\u30af",
+        "kunyomi": "\u306f\u3070",
+        "meaning": "hanging scroll, width",
+        "onyomi_romaji": "fuku",
+        "kunyomi_romaji": "haba"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u822c",
+        "onyomi": "\u30cf\u30f3",
+        "kunyomi": "",
+        "meaning": "carrier, carry, all",
+        "onyomi_romaji": "han",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8cbf",
+        "onyomi": "\u30dc\u30a6",
+        "kunyomi": "",
+        "meaning": "trade, exchange",
+        "onyomi_romaji": "b\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8b1b",
+        "onyomi": "\u30b3\u30a6",
+        "kunyomi": "",
+        "meaning": "lecture, club, association",
+        "onyomi_romaji": "k\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6797",
+        "onyomi": "\u30ea\u30f3 \u30cf\u30e4",
+        "kunyomi": "",
+        "meaning": "grove, forest",
+        "onyomi_romaji": "rin haya",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u88c5",
+        "onyomi": "\u30bd\u30a6 \u30b7\u30e7\u30a6",
+        "kunyomi": "\u3088\u305d\u304a.\u3046 \u3088\u305d\u304a.\u3044",
+        "meaning": "attire, dress, pretend, disguise, profess",
+        "onyomi_romaji": "s\u014d sh\u014d",
+        "kunyomi_romaji": "yos\u014d.u yos\u014d.i"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8af8",
+        "onyomi": "\u30b7\u30e7",
+        "kunyomi": "\u3082\u308d",
+        "meaning": "various, many, several, together",
+        "onyomi_romaji": "sho",
+        "kunyomi_romaji": "moro"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5287",
+        "onyomi": "\u30b2\u30ad",
+        "kunyomi": "",
+        "meaning": "drama, play",
+        "onyomi_romaji": "geki",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6cb3",
+        "onyomi": "\u30ab \u30ab",
+        "kunyomi": "",
+        "meaning": "river",
+        "onyomi_romaji": "ka ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u822a",
+        "onyomi": "\u30b3",
+        "kunyomi": "",
+        "meaning": "navigate, sail, cruise, fly",
+        "onyomi_romaji": "ko",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9244",
+        "onyomi": "\u30c6\u30c4 \u30af\u30ed\u30ac",
+        "kunyomi": "",
+        "meaning": "iron",
+        "onyomi_romaji": "tetsu kuroga",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5150",
+        "onyomi": "\u30b8 \u30cb \u30b2\u30a4 -\u30c3",
+        "kunyomi": "\u3053 -\u3053",
+        "meaning": "newborn babe, child, young of animals",
+        "onyomi_romaji": "ji ni gei -\u3063",
+        "kunyomi_romaji": "ko -ko"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7981",
+        "onyomi": "\u30ad\u30f3",
+        "kunyomi": "",
+        "meaning": "prohibition, ban, forbid",
+        "onyomi_romaji": "kin",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5370",
+        "onyomi": "\u30a4\u30f3",
+        "kunyomi": "\u3057\u308b\u3057 -\u3058\u308b\u3057 \u3057\u308b.\u3059",
+        "meaning": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+        "onyomi_romaji": "in",
+        "kunyomi_romaji": "shirushi -jirushi shiru.su"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9006",
+        "onyomi": "\u30ae\u30e3\u30af \u30b2\u30ad",
+        "kunyomi": "\u3055\u304b \u3055\u304b.\u3055 \u3055\u304b.\u3089\u3046",
+        "meaning": "inverted, reverse, opposite, wicked",
+        "onyomi_romaji": "gyaku geki",
+        "kunyomi_romaji": "saka saka.sa saka.rau"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u63db",
+        "onyomi": "\u30ab\u30f3",
+        "kunyomi": "\u304b.\u3048\u308b -\u304b.\u3048\u308b \u304b.\u308f\u308b",
+        "meaning": "interchange, period, charge, change?",
+        "onyomi_romaji": "kan",
+        "kunyomi_romaji": "ka.eru -ka.eru ka.waru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4e45",
+        "onyomi": "\u30ad\u30e5\u30a6 \u30af \u30d2\u30b5.\u30b7",
+        "kunyomi": "",
+        "meaning": "long time, old story",
+        "onyomi_romaji": "ky\u016b ku hisa.shi",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u77ed",
+        "onyomi": "\u30bf\u30f3",
+        "kunyomi": "\u307f\u3058\u304b.\u3044",
+        "meaning": "short, brevity, fault, defect, weak point",
+        "onyomi_romaji": "tan",
+        "kunyomi_romaji": "mijika.i"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6cb9",
+        "onyomi": "\u30e6 \u30e6\u30a6",
+        "kunyomi": "\u3042\u3076\u3089",
+        "meaning": "oil, fat",
+        "onyomi_romaji": "yu y\u016b",
+        "kunyomi_romaji": "abura"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u66b4",
+        "onyomi": "\u30dc\u30a6 \u30d0\u30af",
+        "kunyomi": "\u3042\u3070.\u304f \u3042\u3070.\u308c\u308b",
+        "meaning": "outburst, rave, fret, force, violence, cruelty, outrage",
+        "onyomi_romaji": "b\u014d baku",
+        "kunyomi_romaji": "aba.ku aba.reru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8f2a",
+        "onyomi": "\u30ea\u30f3",
+        "kunyomi": "",
+        "meaning": "wheel, ring, circle, link, loop, counter for wheels and flowers",
+        "onyomi_romaji": "rin",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5360",
+        "onyomi": "\u30bb\u30f3 \u30a6\u30e9\u30ca.",
+        "kunyomi": "\u3057.\u3081\u308b",
+        "meaning": "fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+        "onyomi_romaji": "sen urana.",
+        "kunyomi_romaji": "shi.meru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u690d",
+        "onyomi": "\u30b7\u30e7\u30af \u30a6.\u30ef",
+        "kunyomi": "\u3046.\u3048\u308b",
+        "meaning": "plant",
+        "onyomi_romaji": "shoku u.wa",
+        "kunyomi_romaji": "u.eru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6e05",
+        "onyomi": "\u30bb\u30a4 \u30b7\u30e7\u30a6 \u30b7\u30f3 \u30ad\u30e8.\u30e1",
+        "kunyomi": "\u304d\u3088.\u3044 \u304d\u3088.\u307e\u308b",
+        "meaning": "pure, purify, cleanse, exorcise, Manchu dynasty",
+        "onyomi_romaji": "sei sh\u014d shin kiyo.me",
+        "kunyomi_romaji": "kiyo.i kiyo.maru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u500d",
+        "onyomi": "\u30d0",
+        "kunyomi": "",
+        "meaning": "double, twice, times, fold",
+        "onyomi_romaji": "ba",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5747",
+        "onyomi": "\u30ad\u30f3 \u30ca\u30e9.",
+        "kunyomi": "",
+        "meaning": "level, average",
+        "onyomi_romaji": "kin nara.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5104",
+        "onyomi": "\u30aa",
+        "kunyomi": "",
+        "meaning": "hundred million, 10**8",
+        "onyomi_romaji": "o",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5727",
+        "onyomi": "\u30a2\u30c4 \u30a8\u30f3 \u30aa\u30a6",
+        "kunyomi": "\u304a.\u3059 \u3078.\u3059 \u304a\u3055.\u3048\u308b \u304a.\u3055\u3048\u308b",
+        "meaning": "pressure, push, overwhelm, oppress, dominate",
+        "onyomi_romaji": "atsu en \u014d",
+        "kunyomi_romaji": "o.su he.su osa.eru o.saeru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u82b8",
+        "onyomi": "\u30b2\u30a4 \u30a6\u30f3 \u30ef",
+        "kunyomi": "\u3046.\u3048\u308b \u306e\u308a",
+        "meaning": "technique, art, craft, performance, acting, trick, stunt",
+        "onyomi_romaji": "gei un wa",
+        "kunyomi_romaji": "u.eru nori"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7f72",
+        "onyomi": "\u30b7\u30e7",
+        "kunyomi": "",
+        "meaning": "signature, govt office, police station",
+        "onyomi_romaji": "sho",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4f38",
+        "onyomi": "\u30b7\u30f3 \u30ce.",
+        "kunyomi": "\u306e.\u3073\u308b \u306e.\u3070\u3059 \u306e.\u3079\u308b",
+        "meaning": "expand, stretch, extend, lengthen, increase",
+        "onyomi_romaji": "shin no.",
+        "kunyomi_romaji": "no.biru no.basu no.beru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u505c",
+        "onyomi": "\u30c6\u30a4",
+        "kunyomi": "\u3068.\u3081\u308b \u3068.\u307e\u308b",
+        "meaning": "halt, stopping",
+        "onyomi_romaji": "tei",
+        "kunyomi_romaji": "to.meru to.maru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7206",
+        "onyomi": "\u30d0\u30af",
+        "kunyomi": "\u306f.\u305c\u308b",
+        "meaning": "bomb, burst open, pop, split",
+        "onyomi_romaji": "baku",
+        "kunyomi_romaji": "ha.zeru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9678",
+        "onyomi": "\u30ea\u30af \u30ed\u30af \u30aa",
+        "kunyomi": "",
+        "meaning": "land, six",
+        "onyomi_romaji": "riku roku o",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7389",
+        "onyomi": "\u30ae\u30e7\u30af -\u30c0",
+        "kunyomi": "\u305f\u307e \u305f\u307e-",
+        "meaning": "jewel, ball",
+        "onyomi_romaji": "gyoku -da",
+        "kunyomi_romaji": "tama tama-"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6ce2",
+        "onyomi": "\u30cf \u30ca",
+        "kunyomi": "",
+        "meaning": "waves, billows, Poland",
+        "onyomi_romaji": "ha na",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e2f",
+        "onyomi": "\u30bf\u30a4 \u30aa",
+        "kunyomi": "\u304a.\u3073\u308b",
+        "meaning": "sash, belt, obi, zone, region",
+        "onyomi_romaji": "tai o",
+        "kunyomi_romaji": "o.biru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5ef6",
+        "onyomi": "\u30a8\u30f3 \u30ce.\u30d0",
+        "kunyomi": "\u306e.\u3073\u308b \u306e.\u3079\u308b \u306e.\u3079",
+        "meaning": "prolong, stretching",
+        "onyomi_romaji": "en no.ba",
+        "kunyomi_romaji": "no.biru no.beru no.be"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7fbd",
+        "onyomi": "\u30a6 \u30cf",
+        "kunyomi": "\u306f \u308f",
+        "meaning": "feathers, counter for birds, rabbits",
+        "onyomi_romaji": "u ha",
+        "kunyomi_romaji": "ha wa"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u56fa",
+        "onyomi": "\u30b3",
+        "kunyomi": "\u304b\u305f.\u3081\u308b \u304b\u305f.\u307e\u308b \u304b\u305f.\u307e\u308a \u304b\u305f.\u3044",
+        "meaning": "harden, set, clot, curdle",
+        "onyomi_romaji": "ko",
+        "kunyomi_romaji": "kata.meru kata.maru kata.mari kata.i"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5247",
+        "onyomi": "\u30bd\u30af \u30ce\u30c3\u30c8.",
+        "kunyomi": "",
+        "meaning": "rule, follow, based on, model after",
+        "onyomi_romaji": "soku notto.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4e71",
+        "onyomi": "\u30e9\u30f3 \u30ed\u30f3 \u30ef\u30bf.",
+        "kunyomi": "\u307f\u3060.\u308c\u308b \u307f\u3060.\u308b \u307f\u3060.\u3059 \u307f\u3060 \u304a\u3055.\u3081\u308b",
+        "meaning": "riot, war, disorder, disturb",
+        "onyomi_romaji": "ran ron wata.",
+        "kunyomi_romaji": "mida.reru mida.ru mida.su mida osa.meru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u666e",
+        "onyomi": "\u30d5 \u30a2\u30de\u30cd",
+        "kunyomi": "\u3042\u307e\u306d.\u304f",
+        "meaning": "universal, wide(ly), generally, Prussia",
+        "onyomi_romaji": "fu amane",
+        "kunyomi_romaji": "amane.ku"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6e2c",
+        "onyomi": "\u30bd\u30af",
+        "kunyomi": "\u306f\u304b.\u308b",
+        "meaning": "fathom, plan, scheme, measure",
+        "onyomi_romaji": "soku",
+        "kunyomi_romaji": "haka.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8c4a",
+        "onyomi": "\u30db\u30a6 \u30d6 \u30c8",
+        "kunyomi": "\u3086\u305f.\u304b",
+        "meaning": "bountiful, excellent, rich",
+        "onyomi_romaji": "h\u014d bu to",
+        "kunyomi_romaji": "yuta.ka"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u539a",
+        "onyomi": "\u30b3\u30a6 \u30a2",
+        "kunyomi": "\u3042\u3064.\u3044",
+        "meaning": "thick, heavy, rich, kind, cordial, brazen, shameless",
+        "onyomi_romaji": "k\u014d a",
+        "kunyomi_romaji": "atsu.i"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9f62",
+        "onyomi": "\u30ec\u30a4",
+        "kunyomi": "\u3088\u308f.\u3044 \u3068\u3057",
+        "meaning": "age",
+        "onyomi_romaji": "rei",
+        "kunyomi_romaji": "yowa.i toshi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u56f2",
+        "onyomi": "\u30a4",
+        "kunyomi": "\u304b\u3053.\u3080 \u304b\u3053.\u3046 \u304b\u3053.\u3044",
+        "meaning": "surround, besiege, store, paling, enclosure, encircle, preserve, keep",
+        "onyomi_romaji": "i",
+        "kunyomi_romaji": "kako.mu kako.u kako.i"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5352",
+        "onyomi": "\u30bd\u30c4 \u30b7\u30e5\u30c4",
+        "kunyomi": "\u305d\u3063.\u3059\u308b \u304a.\u3048\u308b \u304a.\u308f\u308b \u3064\u3044\u306b \u306b\u308f\u304b",
+        "meaning": "graduate, soldier, private, die",
+        "onyomi_romaji": "sotsu shutsu",
+        "kunyomi_romaji": "so..suru o.eru o.waru tsuini niwaka"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7565",
+        "onyomi": "\u30ea\u30e3\u30af",
+        "kunyomi": "\u307b\u307c \u304a\u304b.\u3059 \u304a\u3055.\u3081\u308b \u306f\u304b\u308a\u3054\u3068 \u306f\u304b.\u308b \u306f\u3076.\u304f \u308a\u3083\u304f.\u3059 \u308a\u3083\u304f.\u3059\u308b",
+        "meaning": "abbreviation, omission, outline, shorten, capture, plunder",
+        "onyomi_romaji": "ryaku",
+        "kunyomi_romaji": "hobo oka.su osa.meru hakarigoto haka.ru habu.ku ryaku.su ryaku.suru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u627f",
+        "onyomi": "\u30b7\u30e7\u30a6 \u30a6.\u30b1",
+        "kunyomi": "\u3046\u3051\u305f\u307e\u308f.\u308b",
+        "meaning": "acquiesce, hear, listen to, be informed, receive",
+        "onyomi_romaji": "sh\u014d u.ke",
+        "kunyomi_romaji": "uketamawa.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9806",
+        "onyomi": "\u30b8\u30e5",
+        "kunyomi": "",
+        "meaning": "obey, order, turn, right, docility, occasion",
+        "onyomi_romaji": "ju",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5ca9",
+        "onyomi": "\u30ac\u30f3",
+        "kunyomi": "\u3044\u308f",
+        "meaning": "boulder, rock, cliff",
+        "onyomi_romaji": "gan",
+        "kunyomi_romaji": "iwa"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7df4",
+        "onyomi": "\u30ec\u30f3 \u30cd.",
+        "kunyomi": "\u306d.\u308b",
+        "meaning": "practice, gloss, train, drill, polish, refine",
+        "onyomi_romaji": "ren ne.",
+        "kunyomi_romaji": "ne.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8efd",
+        "onyomi": "\u30b1\u30a4",
+        "kunyomi": "\u304b\u308b.\u3044 \u304b\u308d.\u3084\u304b \u304b\u308d.\u3093\u3058\u308b",
+        "meaning": "lightly, trifling, unimportant",
+        "onyomi_romaji": "kei",
+        "kunyomi_romaji": "karu.i karo.yaka karo.njiru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4e86",
+        "onyomi": "\u30ea\u30e7",
+        "kunyomi": "",
+        "meaning": "complete, finish",
+        "onyomi_romaji": "ryo",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e81",
+        "onyomi": "\u30c1\u30e7\u30a6 \u30c6\u30a4",
+        "kunyomi": "\u3084\u304f\u3057\u3087",
+        "meaning": "government office",
+        "onyomi_romaji": "ch\u014d tei",
+        "kunyomi_romaji": "yakusho"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u57ce",
+        "onyomi": "\u30b8\u30e7\u30a6 \u30b7",
+        "kunyomi": "",
+        "meaning": "castle",
+        "onyomi_romaji": "j\u014d shi",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u60a3",
+        "onyomi": "\u30ab\u30f3 \u30ef\u30ba\u30e9.",
+        "kunyomi": "",
+        "meaning": "afflicted, disease, suffer from, be ill",
+        "onyomi_romaji": "kan wazura.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5c64",
+        "onyomi": "\u30bd\u30a6",
+        "kunyomi": "",
+        "meaning": "stratum, social class, layer, story, floor",
+        "onyomi_romaji": "s\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7248",
+        "onyomi": "\u30cf\u30f3",
+        "kunyomi": "",
+        "meaning": "printing block, printing plate, edition, impression, label",
+        "onyomi_romaji": "han",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4ee4",
+        "onyomi": "\u30ec",
+        "kunyomi": "",
+        "meaning": "orders, ancient laws, command, decree",
+        "onyomi_romaji": "re",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u89d2",
+        "onyomi": "\u30ab\u30af \u30c4",
+        "kunyomi": "\u304b\u3069",
+        "meaning": "angle, corner, square, horn, antlers",
+        "onyomi_romaji": "kaku tsu",
+        "kunyomi_romaji": "kado"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7d61",
+        "onyomi": "\u30e9\u30af",
+        "kunyomi": "\u304b\u3089.\u3080 \u304b\u3089.\u307e\u308b",
+        "meaning": "entwine, coil around, get caught in",
+        "onyomi_romaji": "raku",
+        "kunyomi_romaji": "kara.mu kara.maru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u640d",
+        "onyomi": "\u30bd\u30f3",
+        "kunyomi": "\u305d\u3053.\u306a\u3046 \u305d\u3053\u306a.\u3046 -\u305d\u3053.\u306a\u3046 \u305d\u3053.\u306d\u308b -\u305d\u3053.\u306d\u308b",
+        "meaning": "damage, loss, disadvantage, hurt, injure",
+        "onyomi_romaji": "son",
+        "kunyomi_romaji": "soko.nau sokona.u -soko.nau soko.neru -soko.neru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u52df",
+        "onyomi": "\u30dc",
+        "kunyomi": "\u3064\u306e.\u308b",
+        "meaning": "recruit, campaign, gather (contributions), enlist, grow violent",
+        "onyomi_romaji": "bo",
+        "kunyomi_romaji": "tsuno.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u88cf",
+        "onyomi": "\u30ea",
+        "kunyomi": "\u3046\u3089",
+        "meaning": "back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side",
+        "onyomi_romaji": "ri",
+        "kunyomi_romaji": "ura"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4ecf",
+        "onyomi": "\u30d6\u30c4 \u30d5\u30c4",
+        "kunyomi": "\u307b\u3068\u3051",
+        "meaning": "Buddha, the dead, France",
+        "onyomi_romaji": "butsu futsu",
+        "kunyomi_romaji": "hotoke"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7e3e",
+        "onyomi": "\u30bb",
+        "kunyomi": "",
+        "meaning": "exploits, unreeling cocoons",
+        "onyomi_romaji": "se",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7bc9",
+        "onyomi": "\u30c1\u30af \u30ad\u30ba.",
+        "kunyomi": "",
+        "meaning": "fabricate, build, construct",
+        "onyomi_romaji": "chiku kizu.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8ca8",
+        "onyomi": "\u30ab",
+        "kunyomi": "",
+        "meaning": "freight, goods, property",
+        "onyomi_romaji": "ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6df7",
+        "onyomi": "\u30b3\u30f3",
+        "kunyomi": "\u307e.\u3058\u308b -\u307e.\u3058\u308a \u307e.\u3056\u308b \u307e.\u305c\u308b \u3053.\u3080",
+        "meaning": "mix, blend, confuse",
+        "onyomi_romaji": "kon",
+        "kunyomi_romaji": "ma.jiru -ma.jiri ma.zaru ma.zeru ko.mu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6607",
+        "onyomi": "\u30b7\u30e7\u30a6 \u30ce\u30dc.",
+        "kunyomi": "",
+        "meaning": "rise up",
+        "onyomi_romaji": "sh\u014d nobo.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6c60",
+        "onyomi": "\u30c1",
+        "kunyomi": "\u3044\u3051",
+        "meaning": "pond, cistern, pool, reservoir",
+        "onyomi_romaji": "chi",
+        "kunyomi_romaji": "ike"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8840",
+        "onyomi": "\u30b1\u30c4",
+        "kunyomi": "\u3061",
+        "meaning": "blood",
+        "onyomi_romaji": "ketsu",
+        "kunyomi_romaji": "chi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6e29",
+        "onyomi": "\u30aa\u30f3 \u30cc",
+        "kunyomi": "\u3042\u305f\u305f.\u304b \u3042\u305f\u305f.\u304b\u3044 \u3042\u305f\u305f.\u307e\u308b \u3042\u305f\u305f.\u3081\u308b",
+        "meaning": "warm",
+        "onyomi_romaji": "on nu",
+        "kunyomi_romaji": "atata.ka atata.kai atata.maru atata.meru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5b63",
+        "onyomi": "",
+        "kunyomi": "",
+        "meaning": "seasons",
+        "onyomi_romaji": "",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u661f",
+        "onyomi": "\u30bb\u30a4 \u30b7\u30e7\u30a6",
+        "kunyomi": "\u307b\u3057 -\u307c\u3057",
+        "meaning": "star, spot, dot, mark",
+        "onyomi_romaji": "sei sh\u014d",
+        "kunyomi_romaji": "hoshi -boshi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6c38",
+        "onyomi": "\u30a8\u30a4 \u30ca\u30ac.",
+        "kunyomi": "",
+        "meaning": "eternity, long, lengthy",
+        "onyomi_romaji": "ei naga.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8457",
+        "onyomi": "\u30c1\u30e7 \u30c1\u30e3\u30af",
+        "kunyomi": "\u3042\u3089\u308f.\u3059 \u3044\u3061\u3058\u308b.\u3057\u3044",
+        "meaning": "renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suit",
+        "onyomi_romaji": "cho chaku",
+        "kunyomi_romaji": "arawa.su ichijiru.shii"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8a8c",
+        "onyomi": "\u30b7",
+        "kunyomi": "",
+        "meaning": "document, records",
+        "onyomi_romaji": "shi",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5eab",
+        "onyomi": "\u30b3 \u30af",
+        "kunyomi": "\u304f\u3089",
+        "meaning": "warehouse, storehouse",
+        "onyomi_romaji": "ko ku",
+        "kunyomi_romaji": "kura"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u520a",
+        "onyomi": "\u30ab\u30f3",
+        "kunyomi": "",
+        "meaning": "publish, carve, engrave",
+        "onyomi_romaji": "kan",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u50cf",
+        "onyomi": "\u30be",
+        "kunyomi": "",
+        "meaning": "statue, picture, image, figure, portrait",
+        "onyomi_romaji": "zo",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9999",
+        "onyomi": "\u30b3\u30a6 \u30ad\u30e7\u30a6 \u30ab\u30aa.",
+        "kunyomi": "\u304b \u304b\u304a.\u308a",
+        "meaning": "incense, smell, perfume",
+        "onyomi_romaji": "k\u014d ky\u014d kao.",
+        "kunyomi_romaji": "ka kao.ri"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5742",
+        "onyomi": "\u30cf\u30f3 \u30b5",
+        "kunyomi": "",
+        "meaning": "slope, incline, hill",
+        "onyomi_romaji": "han sa",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e95",
+        "onyomi": "\u30c6\u30a4",
+        "kunyomi": "\u305d\u3053",
+        "meaning": "bottom, sole, depth, bottom price, base, kind, sort",
+        "onyomi_romaji": "tei",
+        "kunyomi_romaji": "soko"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e03",
+        "onyomi": "\u30d5 \u30cc",
+        "kunyomi": "",
+        "meaning": "linen, cloth",
+        "onyomi_romaji": "fu nu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5bfa",
+        "onyomi": "\u30b8",
+        "kunyomi": "\u3066\u3089",
+        "meaning": "Buddhist temple",
+        "onyomi_romaji": "ji",
+        "kunyomi_romaji": "tera"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5b87",
+        "onyomi": "",
+        "kunyomi": "",
+        "meaning": "eaves, roof, house, heaven",
+        "onyomi_romaji": "",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5de8",
+        "onyomi": "\u30ad",
+        "kunyomi": "",
+        "meaning": "gigantic, big, large, great",
+        "onyomi_romaji": "ki",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9707",
+        "onyomi": "\u30b7\u30f3",
+        "kunyomi": "\u3075\u308b.\u3046 \u3075\u308b.\u3048\u308b",
+        "meaning": "quake, shake, tremble, quiver, shiver",
+        "onyomi_romaji": "shin",
+        "kunyomi_romaji": "furu.u furu.eru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e0c",
+        "onyomi": "\u30ad \u30b1 \u30de",
+        "kunyomi": "",
+        "meaning": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal",
+        "onyomi_romaji": "ki ke ma",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u89e6",
+        "onyomi": "\u30b7\u30e7\u30af",
+        "kunyomi": "\u3075.\u308c\u308b \u3055\u308f.\u308b \u3055\u308f",
+        "meaning": "contact, touch, feel, hit, proclaim, announce, conflict",
+        "onyomi_romaji": "shoku",
+        "kunyomi_romaji": "fu.reru sawa.ru sawa"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4f9d",
+        "onyomi": "\u30a4 \u30a8 \u30e8.",
+        "kunyomi": "",
+        "meaning": "reliant, depend on, consequently, therefore, due to",
+        "onyomi_romaji": "i e yo.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7c4d",
+        "onyomi": "\u30bb\u30ad",
+        "kunyomi": "",
+        "meaning": "enroll, domiciliary register, membership",
+        "onyomi_romaji": "seki",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6c5a",
+        "onyomi": "\u30aa",
+        "kunyomi": "\u3051\u304c.\u3059 \u3051\u304c.\u308c\u308b \u3051\u304c.\u3089\u308f\u3057\u3044 \u3088\u3054.\u3059 \u3088\u3054.\u308c\u308b \u304d\u305f\u306a.\u3044",
+        "meaning": "dirty, pollute, disgrace, rape, defile",
+        "onyomi_romaji": "o",
+        "kunyomi_romaji": "kega.su kega.reru kega.rawashii yogo.su yogo.reru kitana.i"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u679a",
+        "onyomi": "\u30de\u30a4 \u30d0",
+        "kunyomi": "",
+        "meaning": "sheet of..., counter for flat thin objects or sheets",
+        "onyomi_romaji": "mai ba",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8907",
+        "onyomi": "\u30d5\u30af",
+        "kunyomi": "",
+        "meaning": "duplicate, double, compound, multiple",
+        "onyomi_romaji": "fuku",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u90f5",
+        "onyomi": "\u30e6\u30a6",
+        "kunyomi": "",
+        "meaning": "mail, stagecoach stop",
+        "onyomi_romaji": "y\u016b",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4ef2",
+        "onyomi": "\u30c1\u30e5\u30a6 \u30ca",
+        "kunyomi": "",
+        "meaning": "go-between, relationship",
+        "onyomi_romaji": "ch\u016b na",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6804",
+        "onyomi": "\u30a8\u30a4 \u30e8\u30a6",
+        "kunyomi": "\u3055\u304b.\u3048\u308b \u306f.\u3048 -\u3070.\u3048 \u306f.\u3048\u308b",
+        "meaning": "flourish, prosperity, honor, glory, splendor",
+        "onyomi_romaji": "ei y\u014d",
+        "kunyomi_romaji": "saka.eru ha.e -ba.e ha.eru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u672d",
+        "onyomi": "\u30b5\u30c4 \u30d5",
+        "kunyomi": "",
+        "meaning": "tag, paper money, counter for bonds, placard, bid",
+        "onyomi_romaji": "satsu fu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u677f",
+        "onyomi": "\u30cf\u30f3 \u30d0\u30f3",
+        "kunyomi": "\u3044\u305f",
+        "meaning": "plank, board, plate, stage",
+        "onyomi_romaji": "han ban",
+        "kunyomi_romaji": "ita"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9aa8",
+        "onyomi": "\u30b3\u30c4",
+        "kunyomi": "\u307b\u306d",
+        "meaning": "skeleton, bone, remains, frame",
+        "onyomi_romaji": "kotsu",
+        "kunyomi_romaji": "hone"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u50be",
+        "onyomi": "\u30b1\u30a4",
+        "kunyomi": "\u304b\u305f\u3080.\u304f \u304b\u305f\u3080.\u3051\u308b \u304b\u305f\u3076.\u304f \u304b\u305f.\u3052\u308b \u304b\u3057.\u3052\u308b",
+        "meaning": "lean, incline, tilt, trend, wane, sink, ruin, bias",
+        "onyomi_romaji": "kei",
+        "kunyomi_romaji": "katamu.ku katamu.keru katabu.ku kata.geru kashi.geru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5c4a",
+        "onyomi": "\u30ab\u30a4",
+        "kunyomi": "\u3068\u3069.\u3051\u308b -\u3068\u3069.\u3051 \u3068\u3069.\u304f",
+        "meaning": "deliver, reach, arrive, report, notify, forward",
+        "onyomi_romaji": "kai",
+        "kunyomi_romaji": "todo.keru -todo.ke todo.ku"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5dfb",
+        "onyomi": "\u30ab\u30f3 \u30b1\u30f3",
+        "kunyomi": "\u307e.\u304f \u307e\u304d \u307e.\u304d",
+        "meaning": "scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)",
+        "onyomi_romaji": "kan ken",
+        "kunyomi_romaji": "ma.ku maki ma.ki"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u71c3",
+        "onyomi": "\u30cd\u30f3",
+        "kunyomi": "\u3082.\u3048\u308b \u3082.\u3084\u3059 \u3082.\u3059",
+        "meaning": "burn, blaze, glow",
+        "onyomi_romaji": "nen",
+        "kunyomi_romaji": "mo.eru mo.yasu mo.su"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8de1",
+        "onyomi": "\u30bb\u30ad",
+        "kunyomi": "\u3042\u3068",
+        "meaning": "tracks, mark, print, impression",
+        "onyomi_romaji": "seki",
+        "kunyomi_romaji": "ato"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5305",
+        "onyomi": "\u30db\u30a6 \u30af\u30eb.",
+        "kunyomi": "\u3064\u3064.\u3080",
+        "meaning": "wrap, pack up, cover, conceal",
+        "onyomi_romaji": "h\u014d kuru.",
+        "kunyomi_romaji": "tsutsu.mu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u99d0",
+        "onyomi": "\u30c1\u30e5\u30a6",
+        "kunyomi": "",
+        "meaning": "stop-over, reside in, resident",
+        "onyomi_romaji": "ch\u016b",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5f31",
+        "onyomi": "\u30b8\u30e3\u30af",
+        "kunyomi": "\u3088\u308f.\u3044 \u3088\u308f.\u308b \u3088\u308f.\u307e\u308b \u3088\u308f.\u3081\u308b",
+        "meaning": "weak, frail",
+        "onyomi_romaji": "jaku",
+        "kunyomi_romaji": "yowa.i yowa.ru yowa.maru yowa.meru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7d39",
+        "onyomi": "\u30b7\u30e7",
+        "kunyomi": "",
+        "meaning": "introduce, inherit, help",
+        "onyomi_romaji": "sho",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u96c7",
+        "onyomi": "\u30b3",
+        "kunyomi": "\u3084\u3068.\u3046",
+        "meaning": "employ, hire",
+        "onyomi_romaji": "ko",
+        "kunyomi_romaji": "yato.u"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u66ff",
+        "onyomi": "\u30bf\u30a4 \u30ab.\u30ef",
+        "kunyomi": "\u304b.\u3048\u308b \u304b.\u3048-",
+        "meaning": "exchange, spare, substitute, per-",
+        "onyomi_romaji": "tai ka.wa",
+        "kunyomi_romaji": "ka.eru ka.e-"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9810",
+        "onyomi": "\u30e8",
+        "kunyomi": "\u3042\u305a.\u3051\u308b \u3042\u305a.\u304b\u308b",
+        "meaning": "deposit, custody, leave with, entrust to",
+        "onyomi_romaji": "yo",
+        "kunyomi_romaji": "azu.keru azu.karu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u713c",
+        "onyomi": "\u30b7\u30e7\u30a6 \u30e4.\u30b1",
+        "kunyomi": "\u3084.\u304f \u3084.\u304d \u3084.\u304d- -\u3084.\u304d",
+        "meaning": "bake, burning",
+        "onyomi_romaji": "sh\u014d ya.ke",
+        "kunyomi_romaji": "ya.ku ya.ki ya.ki- -ya.ki"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7c21",
+        "onyomi": "\u30ab\u30f3",
+        "kunyomi": "",
+        "meaning": "simplicity, brevity",
+        "onyomi_romaji": "kan",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7ae0",
+        "onyomi": "\u30b7\u30e7",
+        "kunyomi": "",
+        "meaning": "badge, chapter, composition, poem, design",
+        "onyomi_romaji": "sho",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u81d3",
+        "onyomi": "\u30be\u30a6",
+        "kunyomi": "\u306f\u3089\u308f\u305f",
+        "meaning": "entrails, viscera, bowels",
+        "onyomi_romaji": "z\u014d",
+        "kunyomi_romaji": "harawata"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5f8b",
+        "onyomi": "\u30ea\u30c4 \u30ea\u30c1 \u30ec",
+        "kunyomi": "",
+        "meaning": "rhythm, law, regulation, gauge, control",
+        "onyomi_romaji": "ritsu richi re",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8d08",
+        "onyomi": "\u30be\u30a6 \u30bd\u30a6",
+        "kunyomi": "\u304a\u304f.\u308b",
+        "meaning": "presents, send, give to, award to, confer on, presenting something",
+        "onyomi_romaji": "z\u014d s\u014d",
+        "kunyomi_romaji": "oku.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7167",
+        "onyomi": "\u30b7\u30e7\u30a6 \u30c6.\u30ec",
+        "kunyomi": "\u3066.\u308b \u3066.\u3089\u3059",
+        "meaning": "illuminate, shine, compare, bashful",
+        "onyomi_romaji": "sh\u014d te.re",
+        "kunyomi_romaji": "te.ru te.rasu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8584",
+        "onyomi": "\u30cf\u30af",
+        "kunyomi": "\u3046\u3059.\u3044 \u3046\u3059- -\u3046\u3059 \u3046\u3059.\u3081\u308b \u3046\u3059.\u307e\u308b \u3046\u3059.\u3089\u3050 \u3046\u3059.\u3089- \u3046\u3059.\u308c\u308b \u3059\u3059\u304d",
+        "meaning": "dilute, thin, weak (tea)",
+        "onyomi_romaji": "haku",
+        "kunyomi_romaji": "usu.i usu- -usu usu.meru usu.maru usu.ragu usu.ra- usu.reru susuki"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7fa4",
+        "onyomi": "\u30b0\u30f3 \u30e0\u30e9.\u30ac",
+        "kunyomi": "\u3080.\u308c\u308b \u3080.\u308c \u3080\u3089",
+        "meaning": "flock, group, crowd, herd, swarm, cluster",
+        "onyomi_romaji": "gun mura.ga",
+        "kunyomi_romaji": "mu.reru mu.re mura"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u79d2",
+        "onyomi": "\u30d3\u30e7\u30a6",
+        "kunyomi": "",
+        "meaning": "second (1, 60 minute)",
+        "onyomi_romaji": "by\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5965",
+        "onyomi": "\u30aa\u30a6 \u30aa\u30af \u30af",
+        "kunyomi": "\u304a\u304f.\u307e\u308b",
+        "meaning": "heart, interior",
+        "onyomi_romaji": "\u014d oku ku",
+        "kunyomi_romaji": "oku.maru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8a70",
+        "onyomi": "\u30ad\u30c4 \u30ad\u30c1 \u30c4.",
+        "kunyomi": "\u3064.\u3081\u308b \u3064.\u3081 -\u3065.\u3081 \u3064.\u307e\u308b",
+        "meaning": "packed, close, pressed, reprove, rebuke, blame",
+        "onyomi_romaji": "kitsu kichi tsu.",
+        "kunyomi_romaji": "tsu.meru tsu.me -zu.me tsu.maru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u53cc",
+        "onyomi": "\u30bd\u30a6 \u30d5\u30bf",
+        "kunyomi": "\u3075\u305f \u305f\u3050\u3044 \u306a\u3089\u3076",
+        "meaning": "pair, set, comparison, counter for pairs",
+        "onyomi_romaji": "s\u014d futa",
+        "kunyomi_romaji": "futa tagui narabu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u523a",
+        "onyomi": "\u30b7",
+        "kunyomi": "\u3055.\u3059 \u3055.\u3055\u308b \u3055.\u3057 \u3055\u3057 \u3068\u3052",
+        "meaning": "thorn, pierce, stab, prick, sting, calling card",
+        "onyomi_romaji": "shi",
+        "kunyomi_romaji": "sa.su sa.saru sa.shi sashi toge"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7d14",
+        "onyomi": "\u30b8\u30e5",
+        "kunyomi": "",
+        "meaning": "genuine, purity, innocence, net (profit)",
+        "onyomi_romaji": "ju",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7fcc",
+        "onyomi": "\u30e8\u30af",
+        "kunyomi": "",
+        "meaning": "the following, next",
+        "onyomi_romaji": "yoku",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5feb",
+        "onyomi": "\u30ab\u30a4 \u30b3\u30b3\u30ed\u30e8.",
+        "kunyomi": "",
+        "meaning": "cheerful, pleasant, agreeable, comfortable",
+        "onyomi_romaji": "kai kokoroyo.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7247",
+        "onyomi": "\u30d8\u30f3",
+        "kunyomi": "\u304b\u305f- \u304b\u305f",
+        "meaning": "one-sided, leaf, sheet",
+        "onyomi_romaji": "hen",
+        "kunyomi_romaji": "kata- kata"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u656c",
+        "onyomi": "\u30b1\u30a4 \u30ad\u30e7\u30a6 \u30a6\u30e4\u30de.",
+        "kunyomi": "",
+        "meaning": "awe, respect, honor, revere",
+        "onyomi_romaji": "kei ky\u014d uyama.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u60a9",
+        "onyomi": "\u30ce\u30a6",
+        "kunyomi": "\u306a\u3084.\u3080 \u306a\u3084.\u307e\u3059 \u306a\u3084.\u307e\u3057\u3044 \u306a\u3084\u307f",
+        "meaning": "trouble, worry, in pain, distress, illness",
+        "onyomi_romaji": "n\u014d",
+        "kunyomi_romaji": "naya.mu naya.masu naya.mashii nayami"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6cc9",
+        "onyomi": "\u30bb\u30f3 \u30a4\u30ba",
+        "kunyomi": "",
+        "meaning": "spring, fountain",
+        "onyomi_romaji": "sen izu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u76ae",
+        "onyomi": "",
+        "kunyomi": "\u3051\u304c\u308f",
+        "meaning": "pelt, skin, hide, leather",
+        "onyomi_romaji": "",
+        "kunyomi_romaji": "kegawa"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6f01",
+        "onyomi": "\u30ae\u30e7 \u30ea\u30e7\u30a6",
+        "kunyomi": "\u3042\u3055.\u308b",
+        "meaning": "fishing, fishery",
+        "onyomi_romaji": "gyo ry\u014d",
+        "kunyomi_romaji": "asa.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8352",
+        "onyomi": "\u30b3\u30a6 \u30b9\u30b5.",
+        "kunyomi": "\u3042\u3089.\u3044 \u3042\u3089- \u3042.\u308c\u308b \u3042.\u3089\u3059 -\u3042.\u3089\u3057",
+        "meaning": "laid waste, rough, rude, wild",
+        "onyomi_romaji": "k\u014d susa.",
+        "kunyomi_romaji": "ara.i ara- a.reru a.rasu -a.rashi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8caf",
+        "onyomi": "\u30c1\u30e7",
+        "kunyomi": "\u305f.\u3081\u308b \u305f\u304f\u308f.\u3048\u308b",
+        "meaning": "savings, store, lay in, keep, wear mustache",
+        "onyomi_romaji": "cho",
+        "kunyomi_romaji": "ta.meru takuwa.eru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u786c",
+        "onyomi": "\u30b3\u30a6",
+        "kunyomi": "\u304b\u305f.\u3044",
+        "meaning": "stiff, hard",
+        "onyomi_romaji": "k\u014d",
+        "kunyomi_romaji": "kata.i"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u57cb",
+        "onyomi": "\u30de\u30a4",
+        "kunyomi": "\u3046.\u3081\u308b \u3046.\u307e\u308b \u3046.\u3082\u308c\u308b \u3046\u305a.\u3081\u308b \u3046\u305a.\u307e\u308b \u3044.\u3051\u308b",
+        "meaning": "bury, be filled up, embedded",
+        "onyomi_romaji": "mai",
+        "kunyomi_romaji": "u.meru u.maru u.moreru uzu.meru uzu.maru i.keru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u67f1",
+        "onyomi": "\u30c1\u30e5\u30a6",
+        "kunyomi": "\u306f\u3057\u3089",
+        "meaning": "pillar, post, cylinder, support",
+        "onyomi_romaji": "ch\u016b",
+        "kunyomi_romaji": "hashira"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u796d",
+        "onyomi": "\u30b5\u30a4",
+        "kunyomi": "\u307e\u3064.\u308b \u307e\u3064.\u308a \u307e\u3064\u308a",
+        "meaning": "ritual, offer prayers, celebrate, deify, enshrine, worship",
+        "onyomi_romaji": "sai",
+        "kunyomi_romaji": "matsu.ru matsu.ri matsuri"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u888b",
+        "onyomi": "\u30bf\u30a4 \u30c0\u30a4 \u30d5\u30af",
+        "kunyomi": "",
+        "meaning": "sack, bag, pouch",
+        "onyomi_romaji": "tai dai fuku",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7b46",
+        "onyomi": "\u30d2\u30c4 \u30d5",
+        "kunyomi": "",
+        "meaning": "writing brush, writing, painting brush, handwriting",
+        "onyomi_romaji": "hitsu fu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8a13",
+        "onyomi": "\u30af\u30f3 \u30ad\u30f3 \u30af\u30f3.\u30ba",
+        "kunyomi": "\u304a\u3057.\u3048\u308b \u3088.\u3080",
+        "meaning": "instruction, Japanese character reading, explanation, read",
+        "onyomi_romaji": "kun kin kun.zu",
+        "kunyomi_romaji": "oshi.eru yo.mu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6d74",
+        "onyomi": "\u30e8\u30af \u30a2.\u30d3\u30bb",
+        "kunyomi": "\u3042.\u3073\u308b",
+        "meaning": "bathe, be favored with, bask in",
+        "onyomi_romaji": "yoku a.bise",
+        "kunyomi_romaji": "a.biru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7ae5",
+        "onyomi": "\u30c9\u30a6 \u30ef\u30e9",
+        "kunyomi": "",
+        "meaning": "juvenile, child",
+        "onyomi_romaji": "d\u014d wara",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5b9d",
+        "onyomi": "\u30db\u30a6 \u30bf\u30ab",
+        "kunyomi": "",
+        "meaning": "treasure, wealth, valuables",
+        "onyomi_romaji": "h\u014d taka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5c01",
+        "onyomi": "\u30d5\u30a6 \u30db\u30a6",
+        "kunyomi": "",
+        "meaning": "seal, closing",
+        "onyomi_romaji": "f\u016b h\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u80f8",
+        "onyomi": "\u30ad\u30e7\u30a6",
+        "kunyomi": "\u3080\u306d \u3080\u306a-",
+        "meaning": "bosom, breast, chest, heart, feelings",
+        "onyomi_romaji": "ky\u014d",
+        "kunyomi_romaji": "mune muna-"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7802",
+        "onyomi": "\u30b5 \u30b7\u30e3 \u30b9",
+        "kunyomi": "",
+        "meaning": "sand",
+        "onyomi_romaji": "sa sha su",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5869",
+        "onyomi": "\u30a8\u30f3",
+        "kunyomi": "\u3057\u304a",
+        "meaning": "salt",
+        "onyomi_romaji": "en",
+        "kunyomi_romaji": "shio"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8ce2",
+        "onyomi": "\u30b1\u30f3 \u30ab\u30b7\u30b3.",
+        "kunyomi": "",
+        "meaning": "intelligent, wise, wisdom, cleverness",
+        "onyomi_romaji": "ken kashiko.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8155",
+        "onyomi": "\u30ef\u30f3",
+        "kunyomi": "\u3046\u3067",
+        "meaning": "arm, ability, talent",
+        "onyomi_romaji": "wan",
+        "kunyomi_romaji": "ude"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5146",
+        "onyomi": "\u30c1\u30e7\u30a6",
+        "kunyomi": "\u304d\u3056.\u3059 \u304d\u3056.\u3057",
+        "meaning": "portent, 10**12, trillion, sign, omen, symptoms",
+        "onyomi_romaji": "ch\u014d",
+        "kunyomi_romaji": "kiza.su kiza.shi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e8a",
+        "onyomi": "\u30b7\u30e7\u30a6",
+        "kunyomi": "\u3068\u3053 \u3086\u304b",
+        "meaning": "bed, floor, padding, tatami",
+        "onyomi_romaji": "sh\u014d",
+        "kunyomi_romaji": "toko yuka"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6bdb",
+        "onyomi": "\u30e2\u30a6",
+        "kunyomi": "",
+        "meaning": "fur, hair, feather, down",
+        "onyomi_romaji": "m\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7dd1",
+        "onyomi": "\u30ea\u30e7\u30af \u30ed\u30af",
+        "kunyomi": "\u307f\u3069\u308a",
+        "meaning": "green",
+        "onyomi_romaji": "ryoku roku",
+        "kunyomi_romaji": "midori"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5c0a",
+        "onyomi": "\u30bd\u30f3 \u30c8\u30a6\u30c8.",
+        "kunyomi": "\u305f\u3063\u3068.\u3044 \u3068\u3046\u3068.\u3044 \u305f\u3063\u3068.\u3076",
+        "meaning": "revered, valuable, precious, noble, exalted",
+        "onyomi_romaji": "son t\u014dto.",
+        "kunyomi_romaji": "tatto.i t\u014dto.i tatto.bu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u795d",
+        "onyomi": "\u30b7\u30e5\u30af \u30b7\u30e5\u30a6 \u30a4\u30ef.",
+        "kunyomi": "",
+        "meaning": "celebrate, congratulate",
+        "onyomi_romaji": "shuku sh\u016b iwa.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u67d4",
+        "onyomi": "\u30b8\u30e5\u30a6 \u30cb\u30e5\u30a6 \u30e4\u30ef.",
+        "kunyomi": "\u3084\u308f.\u3089\u304b \u3084\u308f.\u3089\u304b\u3044 \u3084\u308f",
+        "meaning": "tender, weakness, gentleness, softness",
+        "onyomi_romaji": "j\u016b ny\u016b yawa.",
+        "kunyomi_romaji": "yawa.raka yawa.rakai yawa"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6bbf",
+        "onyomi": "\u30c7\u30f3 \u30c6\u30f3 -\u30c9",
+        "kunyomi": "\u3068\u306e",
+        "meaning": "Mr., hall, mansion, palace, temple, lord",
+        "onyomi_romaji": "den ten -do",
+        "kunyomi_romaji": "tono"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6fc3",
+        "onyomi": "\u30ce\u30a6 \u30b3.",
+        "kunyomi": "",
+        "meaning": "concentrated, thick, dark, undiluted",
+        "onyomi_romaji": "n\u014d ko.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6db2",
+        "onyomi": "\u30a8\u30ad",
+        "kunyomi": "",
+        "meaning": "fluid, liquid, juice, sap, secretion",
+        "onyomi_romaji": "eki",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8863",
+        "onyomi": "\u30a4 \u30a8",
+        "kunyomi": "\u3053\u308d\u3082 \u304d\u306c -\u304e",
+        "meaning": "garment, clothes, dressing",
+        "onyomi_romaji": "i e",
+        "kunyomi_romaji": "koromo kinu -gi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u80a9",
+        "onyomi": "\u30b1\u30f3",
+        "kunyomi": "\u304b\u305f",
+        "meaning": "shoulder",
+        "onyomi_romaji": "ken",
+        "kunyomi_romaji": "kata"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u96f6",
+        "onyomi": "\u30ec\u30a4",
+        "kunyomi": "\u305c\u308d \u3053\u307c.\u3059 \u3053\u307c.\u308c\u308b",
+        "meaning": "zero, spill, overflow, nothing, cipher",
+        "onyomi_romaji": "rei",
+        "kunyomi_romaji": "zero kobo.su kobo.reru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e7c",
+        "onyomi": "\u30e8\u30a6 \u30aa\u30b5\u30ca.",
+        "kunyomi": "",
+        "meaning": "infancy, childhood",
+        "onyomi_romaji": "y\u014d osana.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8377",
+        "onyomi": "\u30ab",
+        "kunyomi": "",
+        "meaning": "baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",
+        "onyomi_romaji": "ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6cca",
+        "onyomi": "\u30cf\u30af \u30c8.\u30e1",
+        "kunyomi": "\u3068.\u307e\u308b",
+        "meaning": "overnight, put up at, ride at anchor, 3-day stay",
+        "onyomi_romaji": "haku to.me",
+        "kunyomi_romaji": "to.maru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9ec4",
+        "onyomi": "\u30b3\u30a6 \u30aa\u30a6",
+        "kunyomi": "\u304d \u3053",
+        "meaning": "yellow",
+        "onyomi_romaji": "k\u014d \u014d",
+        "kunyomi_romaji": "ki ko"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7518",
+        "onyomi": "\u30ab\u30f3 \u30a6\u30de.",
+        "kunyomi": "\u3042\u307e.\u3044 \u3042\u307e.\u3048\u308b \u3042\u307e.\u3084\u304b\u3059",
+        "meaning": "sweet, coax, pamper, be content, sugary",
+        "onyomi_romaji": "kan uma.",
+        "kunyomi_romaji": "ama.i ama.eru ama.yakasu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u81e3",
+        "onyomi": "\u30b7\u30f3 \u30b8",
+        "kunyomi": "",
+        "meaning": "retainer, subject",
+        "onyomi_romaji": "shin ji",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6d45",
+        "onyomi": "\u30bb\u30f3 \u30a2\u30b5.",
+        "kunyomi": "",
+        "meaning": "shallow, superficial, frivolous, wretched, shameful",
+        "onyomi_romaji": "sen asa.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6383",
+        "onyomi": "\u30bd\u30a6 \u30b7\u30e5 \u30cf.",
+        "kunyomi": "",
+        "meaning": "sweep, brush",
+        "onyomi_romaji": "s\u014d shu ha.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u96f2",
+        "onyomi": "\u30a6\u30f3 -\u30b0",
+        "kunyomi": "\u304f\u3082",
+        "meaning": "cloud",
+        "onyomi_romaji": "un -gu",
+        "kunyomi_romaji": "kumo"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6398",
+        "onyomi": "\u30af\u30c4 \u30db.",
+        "kunyomi": "",
+        "meaning": "dig, delve, excavate",
+        "onyomi_romaji": "kutsu ho.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6368",
+        "onyomi": "\u30b7\u30e3",
+        "kunyomi": "\u3059.\u3066\u308b",
+        "meaning": "discard, throw away, abandon, resign, reject, sacrifice",
+        "onyomi_romaji": "sha",
+        "kunyomi_romaji": "su.teru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8edf",
+        "onyomi": "\u30ca\u30f3",
+        "kunyomi": "\u3084\u308f.\u3089\u304b \u3084\u308f.\u3089\u304b\u3044",
+        "meaning": "soft",
+        "onyomi_romaji": "nan",
+        "kunyomi_romaji": "yawa.raka yawa.rakai"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6c88",
+        "onyomi": "\u30c1\u30f3 \u30b8\u30f3 \u30b7\u30ba.\u30e1",
+        "kunyomi": "\u3057\u305a.\u3080",
+        "meaning": "sink, be submerged, subside, be depressed, aloes",
+        "onyomi_romaji": "chin jin shizu.me",
+        "kunyomi_romaji": "shizu.mu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u51cd",
+        "onyomi": "\u30c8\u30a6 \u30b7.\u30df",
+        "kunyomi": "\u3053\u304a.\u308b \u3053\u3054.\u3048\u308b \u3053\u3054.\u308b \u3044.\u3066\u308b",
+        "meaning": "frozen, congeal, refrigerate",
+        "onyomi_romaji": "t\u014d shi.mi",
+        "kunyomi_romaji": "k\u014d.ru kogo.eru kogo.ru i.teru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4e73",
+        "onyomi": "\u30cb\u30e5\u30a6",
+        "kunyomi": "\u3061\u3061 \u3061",
+        "meaning": "milk, breasts",
+        "onyomi_romaji": "ny\u016b",
+        "kunyomi_romaji": "chichi chi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u604b",
+        "onyomi": "\u30ec\u30f3",
+        "kunyomi": "\u3053.\u3046 \u3053\u3044 \u3053\u3044.\u3057\u3044",
+        "meaning": "romance, in love, yearn for, miss, darling",
+        "onyomi_romaji": "ren",
+        "kunyomi_romaji": "ko.u koi koi.shii"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7d05",
+        "onyomi": "\u30b3\u30a6 \u30af \u30a2\u30ab.",
+        "kunyomi": "\u3079\u306b \u304f\u308c\u306a\u3044",
+        "meaning": "crimson, deep red",
+        "onyomi_romaji": "k\u014d ku aka.",
+        "kunyomi_romaji": "beni kurenai"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u90ca",
+        "onyomi": "\u30b3\u30a6",
+        "kunyomi": "",
+        "meaning": "outskirts, suburbs, rural area",
+        "onyomi_romaji": "k\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8170",
+        "onyomi": "\u30e8\u30a6 \u30b3",
+        "kunyomi": "",
+        "meaning": "loins, hips, waist, low wainscoting",
+        "onyomi_romaji": "y\u014d ko",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u70ad",
+        "onyomi": "\u30bf\u30f3",
+        "kunyomi": "\u3059\u307f",
+        "meaning": "charcoal, coal",
+        "onyomi_romaji": "tan",
+        "kunyomi_romaji": "sumi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8e0a",
+        "onyomi": "\u30e8\u30a6",
+        "kunyomi": "\u304a\u3069.\u308b",
+        "meaning": "jump, dance, leap, skip",
+        "onyomi_romaji": "y\u014d",
+        "kunyomi_romaji": "odo.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u518a",
+        "onyomi": "\u30b5\u30c4 \u30b5\u30af",
+        "kunyomi": "\u3075\u307f",
+        "meaning": "tome, counter for books, volume",
+        "onyomi_romaji": "satsu saku",
+        "kunyomi_romaji": "fumi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u52c7",
+        "onyomi": "\u30e6\u30a6 \u30a4\u30b5.",
+        "kunyomi": "",
+        "meaning": "courage, cheer up, be in high spirits, bravery, heroism",
+        "onyomi_romaji": "y\u016b isa.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u68b0",
+        "onyomi": "\u30ab\u30a4",
+        "kunyomi": "\u304b\u305b",
+        "meaning": "contraption, fetter, machine, instrument",
+        "onyomi_romaji": "kai",
+        "kunyomi_romaji": "kase"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u83dc",
+        "onyomi": "\u30b5\u30a4",
+        "kunyomi": "",
+        "meaning": "vegetable, side dish, greens",
+        "onyomi_romaji": "sai",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u73cd",
+        "onyomi": "\u30c1\u30f3 \u30bf\u30ab",
+        "kunyomi": "\u3081\u305a\u3089.\u3057\u3044",
+        "meaning": "rare, curious, strange",
+        "onyomi_romaji": "chin taka",
+        "kunyomi_romaji": "mezura.shii"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5375",
+        "onyomi": "\u30e9\u30f3",
+        "kunyomi": "\u305f\u307e\u3054",
+        "meaning": "egg, ovum, spawn, roe",
+        "onyomi_romaji": "ran",
+        "kunyomi_romaji": "tamago"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6e56",
+        "onyomi": "\u30b3 \u30df\u30ba\u30a6",
+        "kunyomi": "",
+        "meaning": "lake",
+        "onyomi_romaji": "ko miz\u016b",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u55ab",
+        "onyomi": "\u30ad\u30c4",
+        "kunyomi": "",
+        "meaning": "consume, eat, drink, smoke, receive (a blow)",
+        "onyomi_romaji": "kitsu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e72",
+        "onyomi": "\u30ab\u30f3 \u30d2.",
+        "kunyomi": "\u307b.\u3059 \u307b.\u3057- -\u307c.\u3057",
+        "meaning": "dry, parch",
+        "onyomi_romaji": "kan hi.",
+        "kunyomi_romaji": "ho.su ho.shi- -bo.shi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u866b",
+        "onyomi": "\u30c1\u30e5\u30a6 \u30ad \u30e0",
+        "kunyomi": "",
+        "meaning": "insect, bug, temper",
+        "onyomi_romaji": "ch\u016b ki mu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5237",
+        "onyomi": "\u30b5\u30c4",
+        "kunyomi": "\u3059.\u308b -\u305a.\u308a -\u305a\u308a \u306f.\u304f",
+        "meaning": "printing, print",
+        "onyomi_romaji": "satsu",
+        "kunyomi_romaji": "su.ru -zu.ri -zuri ha.ku"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6e6f",
+        "onyomi": "\u30c8\u30a6",
+        "kunyomi": "\u3086",
+        "meaning": "hot water, bath, hot spring",
+        "onyomi_romaji": "t\u014d",
+        "kunyomi_romaji": "yu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6eb6",
+        "onyomi": "\u30e8\u30a6",
+        "kunyomi": "\u3068.\u3051\u308b \u3068.\u304b\u3059 \u3068.\u304f",
+        "meaning": "melt, dissolve, thaw",
+        "onyomi_romaji": "y\u014d",
+        "kunyomi_romaji": "to.keru to.kasu to.ku"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9271",
+        "onyomi": "\u30b3\u30a6",
+        "kunyomi": "\u3042\u3089\u304c\u306d",
+        "meaning": "mineral, ore",
+        "onyomi_romaji": "k\u014d",
+        "kunyomi_romaji": "aragane"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6d99",
+        "onyomi": "\u30eb\u30a4 \u30ec\u30a4",
+        "kunyomi": "\u306a\u307f\u3060",
+        "meaning": "tears, sympathy",
+        "onyomi_romaji": "rui rei",
+        "kunyomi_romaji": "namida"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5339",
+        "onyomi": "\u30d2\u30c4",
+        "kunyomi": "\u3072\u304d",
+        "meaning": "equal, head, counter for small animals, roll of cloth",
+        "onyomi_romaji": "hitsu",
+        "kunyomi_romaji": "hiki"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5b6b",
+        "onyomi": "\u30bd\u30f3 \u30de",
+        "kunyomi": "",
+        "meaning": "grandchild, descendants",
+        "onyomi_romaji": "son ma",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u92ed",
+        "onyomi": "\u30a8\u30a4 \u30b9\u30eb\u30c9.",
+        "kunyomi": "",
+        "meaning": "pointed, sharpness, edge, weapon, sharp, violent",
+        "onyomi_romaji": "ei surudo.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u679d",
+        "onyomi": "\u30b7 \u30a8",
+        "kunyomi": "",
+        "meaning": "bough, branch, twig, limb",
+        "onyomi_romaji": "shi e",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5857",
+        "onyomi": "\u30c8",
+        "kunyomi": "\u306c.\u308b \u306c.\u308a \u307e\u307f.\u308c\u308b",
+        "meaning": "paint, plaster, daub, smear, coating",
+        "onyomi_romaji": "to",
+        "kunyomi_romaji": "nu.ru nu.ri mami.reru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8ed2",
+        "onyomi": "\u30b1\u30f3",
+        "kunyomi": "\u306e\u304d",
+        "meaning": "flats, counter for houses, eaves",
+        "onyomi_romaji": "ken",
+        "kunyomi_romaji": "noki"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6bd2",
+        "onyomi": "\u30c9\u30af",
+        "kunyomi": "",
+        "meaning": "poison, virus, venom, germ, harm, injury, spite",
+        "onyomi_romaji": "doku",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u53eb",
+        "onyomi": "\u30ad\u30e7\u30a6",
+        "kunyomi": "\u3055\u3051.\u3076",
+        "meaning": "shout, exclaim, yell",
+        "onyomi_romaji": "ky\u014d",
+        "kunyomi_romaji": "sake.bu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u62dd",
+        "onyomi": "\u30cf\u30a4",
+        "kunyomi": "\u304a\u304c.\u3080 \u304a\u308d\u304c.\u3080",
+        "meaning": "worship, adore, pray to",
+        "onyomi_romaji": "hai",
+        "kunyomi_romaji": "oga.mu oroga.mu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6c37",
+        "onyomi": "\u30d2\u30e7\u30a6 \u30b3\u30aa.",
+        "kunyomi": "\u3053\u304a\u308a \u3072",
+        "meaning": "icicle, ice, hail, freeze, congeal",
+        "onyomi_romaji": "hy\u014d k\u014d.",
+        "kunyomi_romaji": "k\u014dri hi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4e7e",
+        "onyomi": "\u30ab\u30f3 \u30b1\u30f3",
+        "kunyomi": "\u304b\u308f.\u304f \u304b\u308f.\u304b\u3059 \u307b.\u3059 \u3072.\u308b \u3044\u306c\u3044",
+        "meaning": "drought, dry, dessicate, drink up, heaven, emperor",
+        "onyomi_romaji": "kan ken",
+        "kunyomi_romaji": "kawa.ku kawa.kasu ho.su hi.ru inui"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u68d2",
+        "onyomi": "\u30dc\u30a6",
+        "kunyomi": "",
+        "meaning": "rod, stick, cane, pole, club, line",
+        "onyomi_romaji": "b\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7948",
+        "onyomi": "\u30ad \u30a4\u30ce.",
+        "kunyomi": "",
+        "meaning": "pray, wish",
+        "onyomi_romaji": "ki ino.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u62fe",
+        "onyomi": "\u30b7\u30e5\u30a6 \u30b8\u30e5\u30a6",
+        "kunyomi": "\u3072\u308d.\u3046",
+        "meaning": "pick up, gather, find, go on foot, ten",
+        "onyomi_romaji": "sh\u016b j\u016b",
+        "kunyomi_romaji": "hiro.u"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7c89",
+        "onyomi": "\u30d5\u30f3 \u30c7\u30b7\u30e1\u30fc\u30c8\u30eb",
+        "kunyomi": "\u3053 \u3053\u306a",
+        "meaning": "flour, powder, dust",
+        "onyomi_romaji": "fun deshim\u0113toru",
+        "kunyomi_romaji": "ko kona"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7cf8",
+        "onyomi": "\u30b7",
+        "kunyomi": "\u3044\u3068",
+        "meaning": "thread",
+        "onyomi_romaji": "shi",
+        "kunyomi_romaji": "ito"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7dbf",
+        "onyomi": "\u30e1\u30f3 \u30ef",
+        "kunyomi": "",
+        "meaning": "cotton",
+        "onyomi_romaji": "men wa",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6c57",
+        "onyomi": "\u30ab\u30f3",
+        "kunyomi": "\u3042\u305b",
+        "meaning": "sweat, perspire",
+        "onyomi_romaji": "kan",
+        "kunyomi_romaji": "ase"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9285",
+        "onyomi": "\u30c9\u30a6",
+        "kunyomi": "\u3042\u304b\u304c\u306d",
+        "meaning": "copper",
+        "onyomi_romaji": "d\u014d",
+        "kunyomi_romaji": "akagane"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6e7f",
+        "onyomi": "\u30b7\u30c4 \u30b7\u30e5\u30a6",
+        "kunyomi": "\u3057\u3081.\u308b \u3057\u3081.\u3059 \u3046\u308b\u304a.\u3046 \u3046\u308b\u304a.\u3059",
+        "meaning": "damp, wet, moist",
+        "onyomi_romaji": "shitsu sh\u016b",
+        "kunyomi_romaji": "shime.ru shime.su uruo.u uruo.su"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u74f6",
+        "onyomi": "\u30d3\u30f3 \u30ab",
+        "kunyomi": "",
+        "meaning": "flower pot, bottle, vial, jar, jug, vat, urn",
+        "onyomi_romaji": "bin ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u54b2",
+        "onyomi": "\u30b7\u30e7\u30a6 -\u30b6",
+        "kunyomi": "\u3055.\u304f",
+        "meaning": "blossom, bloom",
+        "onyomi_romaji": "sh\u014d -za",
+        "kunyomi_romaji": "sa.ku"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u53ec",
+        "onyomi": "\u30b7\u30e7\u30a6",
+        "kunyomi": "\u3081.\u3059",
+        "meaning": "seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)",
+        "onyomi_romaji": "sh\u014d",
+        "kunyomi_romaji": "me.su"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7f36",
+        "onyomi": "\u30ab\u30f3 \u30ab",
+        "kunyomi": "",
+        "meaning": "tin can, container",
+        "onyomi_romaji": "kan ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u96bb",
+        "onyomi": "\u30bb\u30ad",
+        "kunyomi": "",
+        "meaning": "vessels, counter for ships, fish, birds, arrows, one of a pair",
+        "onyomi_romaji": "seki",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8102",
+        "onyomi": "\u30b7",
+        "kunyomi": "\u3042\u3076\u3089",
+        "meaning": "fat, grease, tallow, lard, rosin, gum, tar",
+        "onyomi_romaji": "shi",
+        "kunyomi_romaji": "abura"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u84b8",
+        "onyomi": "\u30b8\u30e7\u30a6 \u30bb\u30a4",
+        "kunyomi": "\u3080.\u3059 \u3080.\u308c\u308b \u3080.\u3089\u3059",
+        "meaning": "steam, heat, sultry, foment, get musty",
+        "onyomi_romaji": "j\u014d sei",
+        "kunyomi_romaji": "mu.su mu.reru mu.rasu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u808c",
+        "onyomi": "\u30ad",
+        "kunyomi": "\u306f\u3060",
+        "meaning": "texture, skin, body, grain",
+        "onyomi_romaji": "ki",
+        "kunyomi_romaji": "hada"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8015",
+        "onyomi": "\u30b3\u30a6 \u30bf\u30ac\u30e4.",
+        "kunyomi": "",
+        "meaning": "till, plow, cultivate",
+        "onyomi_romaji": "k\u014d tagaya.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u920d",
+        "onyomi": "\u30c9\u30f3",
+        "kunyomi": "\u306b\u3076.\u3044 \u306b\u3076.\u308b \u306b\u3076- \u306a\u307e.\u308b \u306a\u307e\u304f.\u3089",
+        "meaning": "dull, slow, foolish, blunt",
+        "onyomi_romaji": "don",
+        "kunyomi_romaji": "nibu.i nibu.ru nibu- nama.ru namaku.ra"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6ce5",
+        "onyomi": "\u30c7\u30a4 \u30ca\u30a4 \u30c7 \u30cb \u30c9",
+        "kunyomi": "",
+        "meaning": "mud, mire, adhere to, be attached to",
+        "onyomi_romaji": "dei nai de ni do",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9685",
+        "onyomi": "\u30b0\u30a6",
+        "kunyomi": "\u3059\u307f",
+        "meaning": "corner, nook",
+        "onyomi_romaji": "g\u016b",
+        "kunyomi_romaji": "sumi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u706f",
+        "onyomi": "\u30c8\u30a6",
+        "kunyomi": "\u3072 \u307b- \u3068\u3082\u3057\u3073 \u3068\u3082.\u3059 \u3042\u304b\u308a",
+        "meaning": "lamp, a light, light, counter for lights",
+        "onyomi_romaji": "t\u014d",
+        "kunyomi_romaji": "hi ho- tomoshibi tomo.su akari"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8f9b",
+        "onyomi": "\u30b7\u30f3",
+        "kunyomi": "\u304b\u3089.\u3044 \u3064\u3089.\u3044 -\u3065\u3089.\u3044 \u304b\u306e\u3068",
+        "meaning": "spicy, bitter, hot, acrid",
+        "onyomi_romaji": "shin",
+        "kunyomi_romaji": "kara.i tsura.i -zura.i kanoto"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u78e8",
+        "onyomi": "\u30de \u30b9.",
+        "kunyomi": "\u307f\u304c.\u304f",
+        "meaning": "grind, polish, scour, improve, brush (teeth)",
+        "onyomi_romaji": "ma su.",
+        "kunyomi_romaji": "miga.ku"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9ea6",
+        "onyomi": "\u30d0\u30af",
+        "kunyomi": "\u3080\u304e",
+        "meaning": "barley, wheat",
+        "onyomi_romaji": "baku",
+        "kunyomi_romaji": "mugi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u59d3",
+        "onyomi": "\u30bb\u30a4 \u30b7\u30e7\u30a6",
+        "kunyomi": "",
+        "meaning": "surname",
+        "onyomi_romaji": "sei sh\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7b52",
+        "onyomi": "\u30c8\u30a6",
+        "kunyomi": "\u3064\u3064",
+        "meaning": "cylinder, pipe, tube, gun barrel, sleeve",
+        "onyomi_romaji": "t\u014d",
+        "kunyomi_romaji": "tsutsu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u9f3b",
+        "onyomi": "\u30d3",
+        "kunyomi": "\u306f\u306a",
+        "meaning": "nose, snout",
+        "onyomi_romaji": "bi",
+        "kunyomi_romaji": "hana"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7c92",
+        "onyomi": "\u30ea\u30e5\u30a6",
+        "kunyomi": "\u3064\u3076",
+        "meaning": "grains, drop, counter for tiny particles",
+        "onyomi_romaji": "ry\u016b",
+        "kunyomi_romaji": "tsubu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8a5e",
+        "onyomi": "\u30b7",
+        "kunyomi": "",
+        "meaning": "part of speech, words, poetry",
+        "onyomi_romaji": "shi",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u80c3",
+        "onyomi": "\u30a4",
+        "kunyomi": "",
+        "meaning": "stomach, paunch, crop, craw",
+        "onyomi_romaji": "i",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7573",
+        "onyomi": "\u30b8\u30e7\u30a6 \u30c1\u30e7\u30a6",
+        "kunyomi": "\u305f\u305f.\u3080 \u305f\u305f\u307f \u304b\u3055.\u306a\u308b",
+        "meaning": "tatami mat, counter for tatami mats, fold, shut up, do away with",
+        "onyomi_romaji": "j\u014d ch\u014d",
+        "kunyomi_romaji": "tata.mu tatami kasa.naru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u673a",
+        "onyomi": "\u30ad",
+        "kunyomi": "\u3064\u304f\u3048",
+        "meaning": "desk, table",
+        "onyomi_romaji": "ki",
+        "kunyomi_romaji": "tsukue"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u819a",
+        "onyomi": "\u30d5",
+        "kunyomi": "\u306f\u3060",
+        "meaning": "skin, body, grain, texture, disposition",
+        "onyomi_romaji": "fu",
+        "kunyomi_romaji": "hada"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6fef",
+        "onyomi": "\u30bf\u30af",
+        "kunyomi": "\u3059\u3059.\u3050 \u3086\u3059.\u3050",
+        "meaning": "laundry, wash, pour on, rinse",
+        "onyomi_romaji": "taku",
+        "kunyomi_romaji": "susu.gu yusu.gu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5854",
+        "onyomi": "\u30c8\u30a6",
+        "kunyomi": "",
+        "meaning": "pagoda, tower, steeple",
+        "onyomi_romaji": "t\u014d",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6cb8",
+        "onyomi": "\u30d5\u30c4",
+        "kunyomi": "\u308f.\u304f \u308f.\u304b\u3059",
+        "meaning": "seethe, boil, ferment, uproar, breed",
+        "onyomi_romaji": "futsu",
+        "kunyomi_romaji": "wa.ku wa.kasu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7070",
+        "onyomi": "\u30ab\u30a4",
+        "kunyomi": "\u306f\u3044",
+        "meaning": "ashes, puckery juice, cremate",
+        "onyomi_romaji": "kai",
+        "kunyomi_romaji": "hai"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u83d3",
+        "onyomi": "\u30ab",
+        "kunyomi": "",
+        "meaning": "candy, cakes, fruit",
+        "onyomi_romaji": "ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u5e3d",
+        "onyomi": "\u30dc\u30a6 \u30e2\u30a6",
+        "kunyomi": "\u305a\u304d\u3093 \u304a\u304a.\u3046",
+        "meaning": "cap, headgear",
+        "onyomi_romaji": "b\u014d m\u014d",
+        "kunyomi_romaji": "zukin \u014d.u"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u67af",
+        "onyomi": "\u30b3",
+        "kunyomi": "\u304b.\u308c\u308b \u304b.\u3089\u3059",
+        "meaning": "wither, die, dry up, be seasoned",
+        "onyomi_romaji": "ko",
+        "kunyomi_romaji": "ka.reru ka.rasu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6dbc",
+        "onyomi": "\u30ea\u30e7\u30a6 \u30de\u30b3\u30c8",
+        "kunyomi": "\u3059\u305a.\u3057\u3044 \u3059\u305a.\u3080 \u3059\u305a.\u3084\u304b \u3046\u3059.\u3044 \u3072\u3084.\u3059",
+        "meaning": "refreshing, nice and cool",
+        "onyomi_romaji": "ry\u014d makoto",
+        "kunyomi_romaji": "suzu.shii suzu.mu suzu.yaka usu.i hiya.su"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u821f",
+        "onyomi": "\u30b7\u30e5\u30a6",
+        "kunyomi": "\u3075\u306d \u3075\u306a- -\u3076\u306d",
+        "meaning": "boat, ship",
+        "onyomi_romaji": "sh\u016b",
+        "kunyomi_romaji": "fune funa- -bune"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u8c9d",
+        "onyomi": "\u30d0\u30a4",
+        "kunyomi": "\u304b\u3044",
+        "meaning": "shellfish",
+        "onyomi_romaji": "bai",
+        "kunyomi_romaji": "kai"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u7b26",
+        "onyomi": "\u30d5",
+        "kunyomi": "",
+        "meaning": "token, sign, mark, tally, charm",
+        "onyomi_romaji": "fu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u618e",
+        "onyomi": "\u30be\u30a6",
+        "kunyomi": "\u306b\u304f.\u3080 \u306b\u304f.\u3044 \u306b\u304f.\u3089\u3057\u3044 \u306b\u304f.\u3057\u307f",
+        "meaning": "hate, detest",
+        "onyomi_romaji": "z\u014d",
+        "kunyomi_romaji": "niku.mu niku.i niku.rashii niku.shimi"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u76bf",
+        "onyomi": "\u30d9\u30a4",
+        "kunyomi": "\u3055\u3089",
+        "meaning": "dish, a helping, plate",
+        "onyomi_romaji": "bei",
+        "kunyomi_romaji": "sara"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u80af",
+        "onyomi": "\u30b3\u30a6",
+        "kunyomi": "\u304c\u3048\u3093\u3058.\u308b",
+        "meaning": "agreement, consent, comply with",
+        "onyomi_romaji": "k\u014d",
+        "kunyomi_romaji": "gaenji.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u71e5",
+        "onyomi": "\u30bd\u30a6",
+        "kunyomi": "\u306f\u3057\u3083.\u3050",
+        "meaning": "parch, dry up",
+        "onyomi_romaji": "s\u014d",
+        "kunyomi_romaji": "hasha.gu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u755c",
+        "onyomi": "\u30c1\u30af",
+        "kunyomi": "",
+        "meaning": "livestock, domestic fowl and animals",
+        "onyomi_romaji": "chiku",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u631f",
+        "onyomi": "\u30ad\u30e7\u30a6 \u30b7\u30e7\u30a6",
+        "kunyomi": "\u306f\u3055.\u3080 \u306f\u3055.\u307e\u308b \u308f\u304d\u3070\u3055.\u3080 \u3055\u3057\u306f\u3055.\u3080",
+        "meaning": "pinch, between",
+        "onyomi_romaji": "ky\u014d sh\u014d",
+        "kunyomi_romaji": "hasa.mu hasa.maru wakibasa.mu sashihasa.mu"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u66c7",
+        "onyomi": "\u30c9\u30f3 \u30af\u30e2.",
+        "kunyomi": "",
+        "meaning": "cloudy weather, cloud up",
+        "onyomi_romaji": "don kumo.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u6ef4",
+        "onyomi": "\u30c6\u30ad",
+        "kunyomi": "\u3057\u305a\u304f \u3057\u305f\u305f.\u308b",
+        "meaning": "drip, drop",
+        "onyomi_romaji": "teki",
+        "kunyomi_romaji": "shizuku shitata.ru"
+    },
+    {
+        "category": "jlptn2",
+        "character": "\u4f3a",
+        "onyomi": "\u30b7",
+        "kunyomi": "\u3046\u304b\u304c.\u3046",
+        "meaning": "pay respects, visit, ask, inquire, question, implore",
+        "onyomi_romaji": "shi",
+        "kunyomi_romaji": "ukaga.u"
+    }
+]

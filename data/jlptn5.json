@@ -1,0 +1,713 @@
+[
+    {
+        "category": "jlptn5",
+        "character": "\u65e5",
+        "onyomi": "\u30cb\u30c1 \u30b8\u30c4 -",
+        "kunyomi": "\u3072 -\u3073",
+        "meaning": "day, sun, Japan",
+        "onyomi_romaji": "nichi jitsu -",
+        "kunyomi_romaji": "hi -bi"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e00",
+        "onyomi": "\u30a4\u30c1 \u30a4\u30c4 \u30d2\u30c8.",
+        "kunyomi": "\u3072\u3068-",
+        "meaning": "one",
+        "onyomi_romaji": "ichi itsu hito.",
+        "kunyomi_romaji": "hito-"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u56fd",
+        "onyomi": "\u30b3\u30af \u30af",
+        "kunyomi": "",
+        "meaning": "country",
+        "onyomi_romaji": "koku ku",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4eba",
+        "onyomi": "\u30b8\u30f3 \u30cb\u30f3 -",
+        "kunyomi": "\u3072\u3068 -\u308a",
+        "meaning": "person",
+        "onyomi_romaji": "jin nin -",
+        "kunyomi_romaji": "hito -ri"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5e74",
+        "onyomi": "\u30cd\u30f3 \u30c8",
+        "kunyomi": "",
+        "meaning": "year",
+        "onyomi_romaji": "nen to",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5927",
+        "onyomi": "\u30c0\u30a4 \u30bf\u30a4 -\u30aa\u30aa.\u30a4",
+        "kunyomi": "\u304a\u304a- \u304a\u304a.\u304d\u3044",
+        "meaning": "large, big",
+        "onyomi_romaji": "dai tai -\u014d.i",
+        "kunyomi_romaji": "\u014d- \u014d.kii"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5341",
+        "onyomi": "\u30b8\u30e5\u30a6 \u30b8\u30c3 \u30b8\u30e5\u30c3",
+        "kunyomi": "\u3068\u304a",
+        "meaning": "ten",
+        "onyomi_romaji": "j\u016b ji  ju\u3063",
+        "kunyomi_romaji": "t\u014d"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e8c",
+        "onyomi": "\u30cb \u30b8 \u30d5\u30bf\u30bf.",
+        "kunyomi": "\u3075\u305f \u3075\u305f.\u3064",
+        "meaning": "two",
+        "onyomi_romaji": "ni ji futata.",
+        "kunyomi_romaji": "futa futa.tsu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u672c",
+        "onyomi": "\u30db\u30f3 \u30e2",
+        "kunyomi": "",
+        "meaning": "book, present, main, true, real, counter for long things",
+        "onyomi_romaji": "hon mo",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e2d",
+        "onyomi": "\u30c1\u30e5\u30a6 \u30a2\u30bf.",
+        "kunyomi": "\u306a\u304b \u3046\u3061",
+        "meaning": "in, inside, middle, mean, center",
+        "onyomi_romaji": "ch\u016b ata.",
+        "kunyomi_romaji": "naka uchi"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u9577",
+        "onyomi": "\u30c1\u30e7\u30a6 \u30aa",
+        "kunyomi": "\u306a\u304c.\u3044",
+        "meaning": "long, leader",
+        "onyomi_romaji": "ch\u014d o",
+        "kunyomi_romaji": "naga.i"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u51fa",
+        "onyomi": "\u30b7\u30e5\u30c4 \u30b9\u30a4 \u30a4.\u30c0",
+        "kunyomi": "\u3067.\u308b -\u3067 \u3060.\u3059 -\u3060.\u3059 \u3044.\u3067\u308b",
+        "meaning": "exit, leave",
+        "onyomi_romaji": "shutsu sui i.da",
+        "kunyomi_romaji": "de.ru -de da.su -da.su i.deru"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e09",
+        "onyomi": "\u30b5\u30f3 \u30be\u30a6 \u30df\u30c3.",
+        "kunyomi": "\u307f \u307f.\u3064",
+        "meaning": "three",
+        "onyomi_romaji": "san z\u014d mi..",
+        "kunyomi_romaji": "mi mi.tsu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6642",
+        "onyomi": "\u30b8 -\u30c9",
+        "kunyomi": "\u3068\u304d",
+        "meaning": "time, hour",
+        "onyomi_romaji": "ji -do",
+        "kunyomi_romaji": "toki"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u884c",
+        "onyomi": "\u30b3\u30a6 \u30ae\u30e7\u30a6 \u30a2\u30f3 \u30aa\u30b3.\u30ca",
+        "kunyomi": "\u3044.\u304f \u3086.\u304f -\u3086.\u304d -\u3086\u304d -\u3044.\u304d -\u3044\u304d \u304a\u3053\u306a.\u3046",
+        "meaning": "going, journey",
+        "onyomi_romaji": "k\u014d gy\u014d an oko.na",
+        "kunyomi_romaji": "i.ku yu.ku -yu.ki -yuki -i.ki -iki okona.u"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u898b",
+        "onyomi": "\u30b1\u30f3",
+        "kunyomi": "\u307f.\u308b \u307f.\u3048\u308b \u307f.\u305b\u308b",
+        "meaning": "see, hopes, chances, idea, opinion, look at, visible",
+        "onyomi_romaji": "ken",
+        "kunyomi_romaji": "mi.ru mi.eru mi.seru"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6708",
+        "onyomi": "\u30b2\u30c4 \u30ac\u30c4 \u30c4",
+        "kunyomi": "",
+        "meaning": "month, moon",
+        "onyomi_romaji": "getsu gatsu tsu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5f8c",
+        "onyomi": "\u30b4 \u30b3\u30a6 \u30aa\u30af.\u30ec",
+        "kunyomi": "\u306e\u3061 \u3046\u3057.\u308d \u3046\u3057\u308d \u3042\u3068",
+        "meaning": "behind, back, later",
+        "onyomi_romaji": "go k\u014d oku.re",
+        "kunyomi_romaji": "nochi ushi.ro ushiro ato"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u524d",
+        "onyomi": "\u30bc\u30f3 -\u30de",
+        "kunyomi": "\u307e\u3048",
+        "meaning": "in front, before",
+        "onyomi_romaji": "zen -ma",
+        "kunyomi_romaji": "mae"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u751f",
+        "onyomi": "\u30bb\u30a4 \u30b7\u30e7\u30a6 -",
+        "kunyomi": "\u3044.\u304d\u308b \u3044.\u304b\u3059 \u3044.\u3051\u308b \u3046.\u307e\u308c\u308b \u3046.\u307e\u308c \u3046\u307e\u308c \u3046.\u3080 \u304a.\u3046 \u306f.\u3048\u308b \u306f.\u3084\u3059 \u304d \u306a\u307e \u306a\u307e- \u306a.\u308b",
+        "meaning": "life, genuine, birth",
+        "onyomi_romaji": "sei sh\u014d -",
+        "kunyomi_romaji": "i.kiru i.kasu i.keru u.mareru u.mare umare u.mu o.u ha.eru ha.yasu ki nama nama- na.ru"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e94",
+        "onyomi": "\u30b4 \u30a4\u30c4.",
+        "kunyomi": "\u3044\u3064",
+        "meaning": "five",
+        "onyomi_romaji": "go itsu.",
+        "kunyomi_romaji": "itsu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u9593",
+        "onyomi": "\u30ab\u30f3 \u30b1\u30f3",
+        "kunyomi": "\u3042\u3044\u3060 \u307e \u3042\u3044",
+        "meaning": "interval, space",
+        "onyomi_romaji": "kan ken",
+        "kunyomi_romaji": "aida ma ai"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e0a",
+        "onyomi": "\u30b8\u30e7\u30a6 \u30b7\u30e7\u30a6 \u30b7\u30e3\u30f3 \u30e8.",
+        "kunyomi": "\u3046\u3048 -\u3046\u3048 \u3046\u308f- \u304b\u307f \u3042.\u3052\u308b -\u3042.\u3052\u308b \u3042.\u304c\u308b -\u3042.\u304c\u308b \u3042.\u304c\u308a -\u3042.\u304c\u308a \u306e\u307c.\u308b \u306e\u307c.\u308a \u306e\u307c.",
+        "meaning": "above, up",
+        "onyomi_romaji": "j\u014d sh\u014d shan yo.",
+        "kunyomi_romaji": "ue -ue uwa- kami a.geru -a.geru a.garu -a.garu a.gari -a.gari nobo.ru nobo.ri nobo."
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6771",
+        "onyomi": "\u30c8\u30a6 \u30d2\u30ac",
+        "kunyomi": "",
+        "meaning": "east",
+        "onyomi_romaji": "t\u014d higa",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u56db",
+        "onyomi": "\u30b7 \u30e8",
+        "kunyomi": "\u3088 \u3088.\u3064 \u3088\u3063.\u3064",
+        "meaning": "four",
+        "onyomi_romaji": "shi yo",
+        "kunyomi_romaji": "yo yo.tsu yo..tsu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4eca",
+        "onyomi": "\u30b3\u30f3 \u30ad\u30f3 \u30a4",
+        "kunyomi": "",
+        "meaning": "now",
+        "onyomi_romaji": "kon kin i",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u91d1",
+        "onyomi": "\u30ad\u30f3 \u30b3\u30f3 \u30b4\u30f3 -\u30ac",
+        "kunyomi": "\u304b\u306d \u304b\u306a-",
+        "meaning": "gold",
+        "onyomi_romaji": "kin kon gon -ga",
+        "kunyomi_romaji": "kane kana-"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e5d",
+        "onyomi": "\u30ad\u30e5\u30a6 \u30af \u30b3\u30b3\u30ce.",
+        "kunyomi": "\u3053\u3053\u306e",
+        "meaning": "nine",
+        "onyomi_romaji": "ky\u016b ku kokono.",
+        "kunyomi_romaji": "kokono"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5165",
+        "onyomi": "\u30cb\u30e5\u30a6 \u30b8\u30e5 \u30cf\u30a4.",
+        "kunyomi": "\u3044.\u308b -\u3044.\u308b -\u3044.\u308a \u3044.\u308c\u308b -\u3044.\u308c",
+        "meaning": "enter, insert",
+        "onyomi_romaji": "ny\u016b ju hai.",
+        "kunyomi_romaji": "i.ru -i.ru -i.ri i.reru -i.re"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5b66",
+        "onyomi": "\u30ac\u30af \u30de\u30ca.",
+        "kunyomi": "",
+        "meaning": "study, learning, science",
+        "onyomi_romaji": "gaku mana.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u9ad8",
+        "onyomi": "\u30b3\u30a6 \u30bf\u30ab.\u30e1",
+        "kunyomi": "\u305f\u304b.\u3044 \u305f\u304b -\u3060\u304b \u305f\u304b.\u307e\u308b",
+        "meaning": "tall, high, expensive",
+        "onyomi_romaji": "k\u014d taka.me",
+        "kunyomi_romaji": "taka.i taka -daka taka.maru"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5186",
+        "onyomi": "\u30a8\u30f3 \u30de\u30ed.\u30e4",
+        "kunyomi": "\u307e\u308b.\u3044 \u307e\u308b \u307e\u3069 \u307e\u3069.\u304b",
+        "meaning": "circle, yen, round",
+        "onyomi_romaji": "en maro.ya",
+        "kunyomi_romaji": "maru.i maru mado mado.ka"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5b50",
+        "onyomi": "\u30b7 \u30b9 \u30c4",
+        "kunyomi": "\u3053 -\u3053",
+        "meaning": "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+        "onyomi_romaji": "shi su tsu",
+        "kunyomi_romaji": "ko -ko"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5916",
+        "onyomi": "\u30ac\u30a4 \u30b2",
+        "kunyomi": "\u305d\u3068 \u307b\u304b \u306f\u305a.\u3059 \u306f\u305a.\u308c\u308b \u3068",
+        "meaning": "outside",
+        "onyomi_romaji": "gai ge",
+        "kunyomi_romaji": "soto hoka hazu.su hazu.reru to"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u516b",
+        "onyomi": "\u30cf\u30c1 \u30e8",
+        "kunyomi": "\u3084 \u3084.\u3064 \u3084\u3063.\u3064",
+        "meaning": "eight",
+        "onyomi_romaji": "hachi yo",
+        "kunyomi_romaji": "ya ya.tsu ya..tsu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u516d",
+        "onyomi": "\u30ed\u30af \u30ea\u30af \u30e0",
+        "kunyomi": "\u3080 \u3080.\u3064 \u3080\u3063.\u3064",
+        "meaning": "six",
+        "onyomi_romaji": "roku riku mu",
+        "kunyomi_romaji": "mu mu.tsu mu..tsu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e0b",
+        "onyomi": "\u30ab \u30b2 \u30aa.\u30ea",
+        "kunyomi": "\u3057\u305f \u3057\u3082 \u3082\u3068 \u3055.\u3052\u308b \u3055.\u304c\u308b \u304f\u3060.\u308b \u304f\u3060.\u308a \u304f\u3060.\u3059 -\u304f\u3060.\u3059 \u304f\u3060.\u3055\u308b \u304a.\u308d\u3059",
+        "meaning": "below, down, descend, give, low, inferior",
+        "onyomi_romaji": "ka ge o.ri",
+        "kunyomi_romaji": "shita shimo moto sa.geru sa.garu kuda.ru kuda.ri kuda.su -kuda.su kuda.saru o.rosu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6765",
+        "onyomi": "\u30e9\u30a4 \u30bf\u30a4",
+        "kunyomi": "\u304f.\u308b \u304d\u305f.\u308b \u304d\u305f.\u3059 \u304d.\u305f\u3059 \u304d.\u305f\u308b \u304d",
+        "meaning": "come, due, next, cause, become",
+        "onyomi_romaji": "rai tai",
+        "kunyomi_romaji": "ku.ru kita.ru kita.su ki.tasu ki.taru ki"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6c17",
+        "onyomi": "\u30ad \u30b1",
+        "kunyomi": "\u3044\u304d",
+        "meaning": "spirit, mind",
+        "onyomi_romaji": "ki ke",
+        "kunyomi_romaji": "iki"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5c0f",
+        "onyomi": "\u30b7\u30e7\u30a6",
+        "kunyomi": "\u3061\u3044.\u3055\u3044 \u3053- \u304a- \u3055",
+        "meaning": "little, small",
+        "onyomi_romaji": "sh\u014d",
+        "kunyomi_romaji": "chii.sai ko- o- sa"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e03",
+        "onyomi": "\u30b7\u30c1 \u30ca",
+        "kunyomi": "\u306a\u306a \u306a\u306a.\u3064",
+        "meaning": "seven",
+        "onyomi_romaji": "shichi na",
+        "kunyomi_romaji": "nana nana.tsu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5c71",
+        "onyomi": "\u30b5\u30f3 \u30bb\u30f3 \u30e4",
+        "kunyomi": "",
+        "meaning": "mountain",
+        "onyomi_romaji": "san sen ya",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u8a71",
+        "onyomi": "\u30ef",
+        "kunyomi": "\u306f\u306a.\u3059 \u306f\u306a\u3057",
+        "meaning": "tale, talk",
+        "onyomi_romaji": "wa",
+        "kunyomi_romaji": "hana.su hanashi"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5973",
+        "onyomi": "\u30b8\u30e7 \u30cb\u30e7 \u30cb\u30e7\u30a6",
+        "kunyomi": "\u304a\u3093\u306a",
+        "meaning": "woman, female",
+        "onyomi_romaji": "jo nyo ny\u014d",
+        "kunyomi_romaji": "onna"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5317",
+        "onyomi": "\u30db\u30af \u30ad",
+        "kunyomi": "",
+        "meaning": "north",
+        "onyomi_romaji": "hoku ki",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5348",
+        "onyomi": "\u30b4",
+        "kunyomi": "\u3046\u307e",
+        "meaning": "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",
+        "onyomi_romaji": "go",
+        "kunyomi_romaji": "uma"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u767e",
+        "onyomi": "\u30d2\u30e3\u30af \u30d3\u30e3\u30af \u30e2",
+        "kunyomi": "",
+        "meaning": "hundred",
+        "onyomi_romaji": "hyaku byaku mo",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u66f8",
+        "onyomi": "\u30b7\u30e7 -\u30ac",
+        "kunyomi": "\u304b.\u304f -\u304c.\u304d",
+        "meaning": "write",
+        "onyomi_romaji": "sho -ga",
+        "kunyomi_romaji": "ka.ku -ga.ki"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5148",
+        "onyomi": "\u30bb\u30f3 \u30de.",
+        "kunyomi": "\u3055\u304d",
+        "meaning": "before, ahead, previous, future, precedence",
+        "onyomi_romaji": "sen ma.",
+        "kunyomi_romaji": "saki"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u540d",
+        "onyomi": "\u30e1\u30a4 \u30df\u30e7\u30a6 -",
+        "kunyomi": "\u306a",
+        "meaning": "name, noted, distinguished, reputation",
+        "onyomi_romaji": "mei my\u014d -",
+        "kunyomi_romaji": "na"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5ddd",
+        "onyomi": "\u30bb\u30f3 \u30ab",
+        "kunyomi": "",
+        "meaning": "stream, river",
+        "onyomi_romaji": "sen ka",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5343",
+        "onyomi": "\u30bb\u30f3",
+        "kunyomi": "",
+        "meaning": "thousand",
+        "onyomi_romaji": "sen",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6c34",
+        "onyomi": "\u30b9\u30a4",
+        "kunyomi": "\u307f\u305a \u307f\u305a",
+        "meaning": "water",
+        "onyomi_romaji": "sui",
+        "kunyomi_romaji": "mizu mizu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u534a",
+        "onyomi": "\u30cf\u30f3 \u30ca\u30ab.",
+        "kunyomi": "",
+        "meaning": "half, middle, odd number, semi-, part-",
+        "onyomi_romaji": "han naka.",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u7537",
+        "onyomi": "\u30c0\u30f3 \u30ca\u30f3",
+        "kunyomi": "\u304a\u3068\u3053",
+        "meaning": "male",
+        "onyomi_romaji": "dan nan",
+        "kunyomi_romaji": "otoko"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u897f",
+        "onyomi": "\u30bb\u30a4 \u30b5\u30a4 \u30b9 \u30cb",
+        "kunyomi": "",
+        "meaning": "west, Spain",
+        "onyomi_romaji": "sei sai su ni",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u96fb",
+        "onyomi": "\u30c7\u30f3",
+        "kunyomi": "",
+        "meaning": "electricity",
+        "onyomi_romaji": "den",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6821",
+        "onyomi": "\u30b3\u30a6 \u30ad\u30e7",
+        "kunyomi": "",
+        "meaning": "exam, school, printing, proof, correction",
+        "onyomi_romaji": "k\u014d kyo",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u8a9e",
+        "onyomi": "\u30b4",
+        "kunyomi": "\u304b\u305f.\u308b \u304b\u305f.\u3089\u3046",
+        "meaning": "word, speech, language",
+        "onyomi_romaji": "go",
+        "kunyomi_romaji": "kata.ru kata.rau"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u571f",
+        "onyomi": "\u30c9 \u30c8 \u30c4",
+        "kunyomi": "",
+        "meaning": "soil, earth, ground, Turkey",
+        "onyomi_romaji": "do to tsu",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6728",
+        "onyomi": "\u30dc\u30af \u30e2\u30af",
+        "kunyomi": "\u304d \u3053",
+        "meaning": "tree, wood",
+        "onyomi_romaji": "boku moku",
+        "kunyomi_romaji": "ki ko"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u805e",
+        "onyomi": "\u30d6\u30f3 \u30e2\u30f3",
+        "kunyomi": "\u304d.\u304f \u304d.\u3053\u3048\u308b",
+        "meaning": "hear, ask, listen",
+        "onyomi_romaji": "bun mon",
+        "kunyomi_romaji": "ki.ku ki.koeru"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u98df",
+        "onyomi": "\u30b7\u30e7\u30af \u30b8\u30ad \u30cf.",
+        "kunyomi": "\u304f.\u3046 \u304f.\u3089\u3046 \u305f.\u3079\u308b",
+        "meaning": "eat, food",
+        "onyomi_romaji": "shoku jiki ha.",
+        "kunyomi_romaji": "ku.u ku.rau ta.beru"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u8eca",
+        "onyomi": "\u30b7\u30e3 \u30af\u30eb",
+        "kunyomi": "",
+        "meaning": "car",
+        "onyomi_romaji": "sha kuru",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4f55",
+        "onyomi": "\u30ab",
+        "kunyomi": "\u306a\u306b \u306a\u3093 \u306a\u306b- \u306a\u3093",
+        "meaning": "what",
+        "onyomi_romaji": "ka",
+        "kunyomi_romaji": "nani nan nani- nan"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5357",
+        "onyomi": "\u30ca\u30f3 \u30ca \u30df\u30ca",
+        "kunyomi": "",
+        "meaning": "south",
+        "onyomi_romaji": "nan na mina",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4e07",
+        "onyomi": "\u30de\u30f3 \u30d0\u30f3 \u30e8\u30ed",
+        "kunyomi": "",
+        "meaning": "ten thousand",
+        "onyomi_romaji": "man ban yoro",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6bce",
+        "onyomi": "\u30de\u30a4 -\u30b4\u30c8.",
+        "kunyomi": "\u3054\u3068",
+        "meaning": "every",
+        "onyomi_romaji": "mai -goto.",
+        "kunyomi_romaji": "goto"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u767d",
+        "onyomi": "\u30cf\u30af \u30d3\u30e3\u30af \u30b7\u30ed.",
+        "kunyomi": "\u3057\u308d \u3057\u3089-",
+        "meaning": "white",
+        "onyomi_romaji": "haku byaku shiro.",
+        "kunyomi_romaji": "shiro shira-"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5929",
+        "onyomi": "\u30c6\u30f3",
+        "kunyomi": "\u3042\u307e\u3064 \u3042\u3081 \u3042\u307e",
+        "meaning": "heavens, sky, imperial",
+        "onyomi_romaji": "ten",
+        "kunyomi_romaji": "amatsu ame ama"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u6bcd",
+        "onyomi": "\u30dc",
+        "kunyomi": "\u306f\u306f \u3082",
+        "meaning": "mama, mother",
+        "onyomi_romaji": "bo",
+        "kunyomi_romaji": "haha mo"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u706b",
+        "onyomi": "\u30ab",
+        "kunyomi": "\u3072 -\u3073 \u307b-",
+        "meaning": "fire",
+        "onyomi_romaji": "ka",
+        "kunyomi_romaji": "hi -bi ho-"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u53f3",
+        "onyomi": "\u30a6 \u30e6\u30a6 \u30df",
+        "kunyomi": "",
+        "meaning": "right",
+        "onyomi_romaji": "u y\u016b mi",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u8aad",
+        "onyomi": "\u30c9\u30af \u30c8\u30af \u30c8\u30a6 -\u30e8.",
+        "kunyomi": "\u3088.\u3080",
+        "meaning": "read",
+        "onyomi_romaji": "doku toku t\u014d -yo.",
+        "kunyomi_romaji": "yo.mu"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u53cb",
+        "onyomi": "\u30e6\u30a6 \u30c8",
+        "kunyomi": "",
+        "meaning": "friend",
+        "onyomi_romaji": "y\u016b to",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u5de6",
+        "onyomi": "\u30b5 \u30b7\u30e3 \u30d2\u30c0",
+        "kunyomi": "",
+        "meaning": "left",
+        "onyomi_romaji": "sa sha hida",
+        "kunyomi_romaji": ""
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u4f11",
+        "onyomi": "\u30ad\u30e5\u30a6",
+        "kunyomi": "\u3084\u3059.\u3080 \u3084\u3059.\u307e\u308b \u3084\u3059.\u3081\u308b",
+        "meaning": "rest, day off, retire, sleep",
+        "onyomi_romaji": "ky\u016b",
+        "kunyomi_romaji": "yasu.mu yasu.maru yasu.meru"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u7236",
+        "onyomi": "\u30d5",
+        "kunyomi": "\u3061\u3061",
+        "meaning": "father",
+        "onyomi_romaji": "fu",
+        "kunyomi_romaji": "chichi"
+    },
+    {
+        "category": "jlptn5",
+        "character": "\u96e8",
+        "onyomi": "\u30a6",
+        "kunyomi": "\u3042\u3081 \u3042\u307e- -\u3055\u3081",
+        "meaning": "rain",
+        "onyomi_romaji": "u",
+        "kunyomi_romaji": "ame ama- -same"
+    }
+]
