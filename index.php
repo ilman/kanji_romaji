@@ -34,6 +34,6 @@ foreach($data_kanji as $row){
 }
 
 foreach($sets as $key=>$row){
-	$content = json_encode($row, JSON_PRETTY_PRINT);
+	$content = json_encode($row, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
 	file_put_contents('data/'.$key.'.json', $content);
 }
